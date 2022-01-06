@@ -39,7 +39,7 @@ exclude:
 #     output: true
 #     permalink: /articles/:year/:month/:day/:title:output_ext
 
-feed:
-  collections:
-    posts:
-      path: "/articles/feed.xml"
+# feed:
+#   collections:
+#     posts:
+#       path: "/articles/feed.xml"
