@@ -1,0 +1,78 @@
+/*
+ * プログラミング・シンポジウム CSS [シンポジウム各回ページ用 Ver.0 - ロゴができる前用]
+ *
+ * - シンポジウム各回のページ (「第XX回 プログラミング・シンポジウム」など) 用の CSS ファイルです。
+ * - 新しい CSS ファイルを毎年用意することを意図したものではありません。後年のページでこの CSS ファイルを使用しても大丈夫です。
+ * - ただし、この CSS ファイルを不用意に変更すると、過去のページが壊れる可能性があります。
+ * - スタイルを新しくしたくなった場合、この CSS ファイルを変更するのではなく、新しい symposiumX.css を用意してください。
+ */
+@import url("./prosym.css");
+
+body#symposium0 header {
+    padding: 1.5em 1em 1.5em 1em;
+    overflow: hidden;
+}
+
+body#symposium0 header div#symposium-logo-title {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    float: left;
+}
+
+body#symposium0 header div#symposium-logo-title h1#symposium-title {
+    display: inline;
+    margin: 0 0 0 5px;
+    padding: 0;
+    font-size: 28px;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+
+body#symposium0 header div#symposium-logo-title h1#symposium-title a {
+    color: #336699;
+    text-decoration: none;
+}
+
+body#symposium0 header div#symposium-logo-title h1#symposium-title a:hover {
+    text-decoration: underline;
+}
+
+body#symposium0 main {
+    margin: 0;
+    padding: 0 1em 0 2em;
+}
+
+body#symposium0 main section h2 {
+    font-size: larger;
+}
+
+body#symposium0 footer {
+    margin: 0;
+    padding: 1.5em 1em 1.5em 1em;
+    overflow: hidden;
+    background-color: #666666;
+    color: #cccccc;
+    border-top: solid 1px #333333;
+}
+
+body#symposium0 footer a {
+    color: #cccccc;
+    text-decoration: none;
+}
+
+body#symposium0 footer a:hover {
+    text-decoration: underline;
+}
+
+body#symposium0 footer nav#bottom-navigation {
+    margin: 0;
+    padding: 0 3em 0 3em;
+    font-size: smaller;
+}
+
+body#symposium0 footer nav#bottom-navigation ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
