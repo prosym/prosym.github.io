@@ -16,3 +16,10 @@ header {
 code.url {
     font-family: monospace;
 }
+
+p.copyright {
+    margin: 0;
+    padding: 0 3em 0 3em;
+    float: right;
+    font-size: smaller;
+}
