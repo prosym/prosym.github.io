@@ -485,7 +485,7 @@
 {"type": "presentation", "subject": "マルチ・ミニコンピュータ・システム", "authors": [{"name": "田丸,啓吉"}, {"name": "藤谷,和男"}, {"name": "田中,哲男"}, {"name": "遠藤,則子"}], "first_page": "240", "index_original": "3", "filename": "WPRO1974D03.pdf"}
 {"type": "presentation", "subject": "大型機によるミニコンのプログラム・サポート", "authors": [{"name": "浅井,清"}, {"name": "稲見,泰生"}, {"name": "小沼,吉男"}], "first_page": "252", "index_original": "4", "filename": "WPRO1974D04.pdf"}
 {"type": "presentation", "subject": "ミニコンによる時分割システム", "authors": [{"name": "島内,剛一"}, {"name": "筧,捷彦"}, {"name": "加賀見,鉄雄"}], "first_page": "260", "index_original": "5", "filename": "WPRO1974D05.pdf"}
-{"type": "symposium", "index": "16", "year": "1975", "starting_date": "1975-01-09", "ending_date": "1975-01-10"}
+{"type": "symposium", "index": "16", "year": "1975", "starting_date": "1975-01-09", "ending_date": "1975-01-11"}
 {"type": "presentation", "subject": "まえがき", "index_complemented": "P01", "filename": "WPRO1975P01.pdf"}
 {"type": "presentation", "subject": "第16回 プログラミング・シンポジウムの準備にあたって", "index_complemented": "P02", "filename": "WPRO1975P02.pdf"}
 {"type": "presentation", "subject": "第16回 プログラミング・シンポジウム日程", "index_complemented": "P03", "filename": "WPRO1975P03.pdf"}
