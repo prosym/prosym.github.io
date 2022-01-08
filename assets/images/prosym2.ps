@@ -1,0 +1,29 @@
+%! programming symposium icon
+/r0 0.6 def /r1 1 r0 sub def
+/hcurve
+{/y1 exch def /x1 exch def currentpoint /y0 exch def /x0 exch def
+r1 x0 mul r0 x1 mul add y0 x1 r0 y0 mul r1 y1 mul add x1 y1 curveto
+} def
+/vcurve
+{/y1 exch def /x1 exch def currentpoint /y0 exch def /x0 exch def
+x0 r1 y0 mul r0 y1 mul add r0 x0 mul r1 x1 mul add y1 x1 y1 curveto
+} def
+
+580 400 translate 90 rotate 0.9 0.9 scale
+20 setlinewidth 1 setlinejoin 1 setlinecap
+
+-310 50 moveto -310 230 lineto -180 230 lineto
+-50 180 hcurve -180 120 vcurve -310 120 lineto stroke
+
+310 230 moveto 180 230 lineto 50 180 hcurve 180 120 vcurve
+310 80 hcurve 180 50 vcurve 50 50 lineto stroke
+
+0.75 setgray
+-360 280 moveto 360 280 lineto 360 600 lineto 0 280 lineto -360 600 lineto
+-360 280 lineto fill
+
+0 setgray 2 setlinewidth
+0 280 moveto 0 0 lineto 360 0 lineto 360 600 lineto -360 600 lineto
+-360 0 lineto 0 0 lineto stroke
+
+showpage
