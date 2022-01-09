@@ -3,4 +3,5 @@
 <path d="M -310 50 L -310 230 -180 230 -50 180 -180 120 -310 120" fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
 <path d="M 310 230 L 180 230 50 180 180 120 310 80 180 50 50 50" fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
 <polygon points="-360,280,360,280,360,600,0,280,-360,600,-360,280" fill="#B0B0B0" stroke="none"/>
+<path d="M 0 280 L 0 0 360 0 360 600 -360 600 -360 0 0 0" fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
 </svg>
