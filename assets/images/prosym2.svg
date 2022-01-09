@@ -2,4 +2,5 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="760" height="640" viewBox="-380 -20 760 640">
 <path d="M -310 50 L -310 230 -180 230 -50 180 -180 120 -310 120" fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
 <path d="M 310 230 L 180 230 50 180 180 120 310 80 180 50 50 50" fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+<polygon points="-360,280,360,280,360,600,0,280,-360,600,-360,280" fill="#B0B0B0" stroke="none"/>
 </svg>
