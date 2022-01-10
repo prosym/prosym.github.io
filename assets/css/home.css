@@ -5,11 +5,27 @@ body#home header {
     overflow: hidden;
 }
 
-body#home header div#programming-symposium-logo-title {
+body#home header div#symbol-title {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     width: 100%;
+}
+
+body#home header div#symbol-title img#prosym-symbol {
+    margin: 3em 0 1em 0;
+    padding: 0;
+    top: 0;
+    width: 114px;
+    height: 96px;
+}
+
+body#home header div#symbol-title h1#title {
+    margin: 1em 0 1.5em 0;
+    padding: 0;
+    top: 0;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
 }
 
 body#home main {
@@ -19,9 +35,6 @@ body#home main {
 
 body#home main section h2 {
     font-size: larger;
-}
-
-body#home main section#news {
 }
 
 body#home main section#scheduled-events ul.scheduled-event-items {
