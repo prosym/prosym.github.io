@@ -2,8 +2,15 @@
 ---
 <!DOCTYPE html>
 <html lang="ja">
-<head>
+<head prefix="og: http://ogp.me/ns#">
 <meta charset="utf-8">
+<meta property="og:title" content="第{{ page.symposium }}回 プログラミング・シンポジウム"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}"/>
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ "/assets/images/prosym2_white_200x200.png" | relative_url }}"/>
+<meta property="og:locale" content="ja_JP"/>
+<meta property="og:site_name" content="プログラミング・シンポジウム"/>
+<meta name="twitter:card" content="summary"/>
 <title>第{{ page.symposium }}回 プログラミング・シンポジウム</title>
 <link rel="stylesheet" href="{{ "/assets/css/symposium2.css" | relative_url }}" type="text/css" />
 </head>
