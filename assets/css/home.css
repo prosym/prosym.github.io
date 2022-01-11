@@ -16,8 +16,8 @@ body#home header div#symbol-title img#prosym-symbol {
     margin: 0 0 1em 0;
     padding: 0;
     top: 0;
-    width: 114px;
-    height: 96px;
+    width: 4.75rem;  /* 4.0 * 760.0 / 640.0 */
+    height: 4.0rem;
 }
 
 body#home header div#symbol-title h1#title {

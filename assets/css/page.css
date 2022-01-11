@@ -19,8 +19,8 @@ body#page header div#symbol-title img#prosym-symbol {
     margin: 0;
     padding: 0;
     top: 0;
-    width: 76px;
-    height: 64px;
+    width: 2.85rem;  /* 2.4 * 760 / 640 */
+    height: 2.4rem;
     vertical-align: middle;
 }
 
@@ -30,7 +30,7 @@ body#page header div#symbol-title h1#title {
     padding: 0;
     top: 0;
     vertical-align: middle;
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 body#page header div#symbol-title h1#title a {
