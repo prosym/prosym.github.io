@@ -30,9 +30,7 @@ body#page header div#symbol-title h1#title {
     padding: 0;
     top: 0;
     vertical-align: middle;
-    font-size: 28px;
-    -webkit-text-size-adjust: 100%;
-    text-size-adjust: 100%;
+    font-size: 2rem;
 }
 
 body#page header div#symbol-title h1#title a {
