@@ -4,7 +4,7 @@
  * - シンポジウム各回のページ (「第XX回 プログラミング・シンポジウム」など) 用の CSS ファイルです。
  * - 新しい CSS ファイルを毎年用意することを意図したものではありません。後年のページでこの CSS ファイルを使用しても大丈夫です。
  * - ただし、この CSS ファイルを不用意に変更すると、過去のページが壊れる可能性があります。
- * - スタイルを新しくしたくなった場合、この CSS ファイルを変更するのではなく、新しい symposiumX.css を用意してください。
+ * - 次の開催からスタイルを新しくしたくなった場合、この CSS ファイルを変更するのではなく、新しい symposiumX.css を用意してください。
  */
 @import url("./prosym.css");
 
@@ -13,14 +13,14 @@ body#symposium0 header {
     overflow: hidden;
 }
 
-body#symposium0 header div#symposium-logo-title {
+body#symposium0 header div#symbol-title {
     margin: 0;
     padding: 0;
     top: 0;
     float: left;
 }
 
-body#symposium0 header div#symposium-logo-title h1#symposium-title {
+body#symposium0 header div#symbol-title h1#title {
     display: inline;
     margin: 0 0 0 5px;
     padding: 0;
@@ -29,12 +29,12 @@ body#symposium0 header div#symposium-logo-title h1#symposium-title {
     text-size-adjust: 100%;
 }
 
-body#symposium0 header div#symposium-logo-title h1#symposium-title a {
+body#symposium0 header div#symbol-title h1#title a {
     color: #336699;
     text-decoration: none;
 }
 
-body#symposium0 header div#symposium-logo-title h1#symposium-title a:hover {
+body#symposium0 header div#symbol-title h1#title a:hover {
     text-decoration: underline;
 }
 
