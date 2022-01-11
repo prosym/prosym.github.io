@@ -30,7 +30,7 @@ exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
-  - README.md
+  - "*/README.md"
   - "data/*.py"
   - vendor/
 
