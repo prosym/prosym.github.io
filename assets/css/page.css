@@ -1,0 +1,84 @@
+/*
+ * プログラミング・シンポジウム CSS [固定ページ用]
+ */
+@import url("./prosym.css");
+
+body#page header {
+    padding: 1.5em 1em 1.5em 1em;
+    overflow: hidden;
+}
+
+body#page header div#symbol-title {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    float: left;
+}
+
+body#page header div#symbol-title img#prosym-symbol {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    width: 76px;
+    height: 64px;
+    vertical-align: middle;
+}
+
+body#page header div#symbol-title h1#title {
+    display: inline;
+    margin: 0 0 0 16px;
+    padding: 0;
+    top: 0;
+    vertical-align: middle;
+    font-size: 28px;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+
+body#page header div#symbol-title h1#title a {
+    color: #336699;
+    text-decoration: none;
+}
+
+body#page header div#symbol-title h1#title a:hover {
+    text-decoration: underline;
+}
+
+body#page main {
+    margin: 0;
+    padding: 1.5em 2em 1.5em 2em;
+}
+
+body#page main section h2 {
+    font-size: larger;
+}
+
+body#page footer {
+    margin: 0;
+    padding: 1.5em 1em 1.5em 1em;
+    overflow: hidden;
+    background-color: #666666;
+    color: #cccccc;
+    border-top: solid 1px #333333;
+}
+
+body#page footer a {
+    color: #cccccc;
+    text-decoration: none;
+}
+
+body#page footer a:hover {
+    text-decoration: underline;
+}
+
+body#page footer nav#bottom-navigation {
+    margin: 0;
+    padding: 0 3em 0 3em;
+    font-size: smaller;
+}
+
+body#page footer nav#bottom-navigation ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
