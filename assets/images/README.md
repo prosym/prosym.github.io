@@ -62,6 +62,13 @@ prosym2_white_square.svg=>prosym2_white_192x192.png SVG 760x760=>192x192 192x192
 ```
 
 ```
+$ convert -verbose prosym2_white_square.svg -define png:color-type=0 -define png:bit-depth=8 -define png:compression-filter=1 -define png:exclude-chunk="tEXt,zEXt,tIME" -strip -resize 200x200 prosym2_white_200x200.png
+'inkscape' '/tmp/magick-L4pV5tDcTDDNgza0xVeYQL_Ud5diJWoi' --export-filename='/tmp/magick-68WYIhmiLiSCL6F9JnbnxE4jzHvVULPh.png' --export-dpi='96' --export-background='rgb(100%,100%,100%)' --export-background-opacity='0.99999999999900002212' > '/tmp/magick-w61jjD368QomQjWDpqrDUTjX0vK12hji' 2>&1
+prosym2_white_square.svg SVG 760x760 760x760+0+0 16-bit sRGB 1002B 0.040u 0:00.060
+prosym2_white_square.svg=>prosym2_white_200x200.png SVG 760x760=>200x200 200x200+0+0 16-bit sRGB 1002B 0.050u 0:00.018
+```
+
+```
 $ convert -verbose prosym2_white_square.svg -define png:color-type=0 -define png:bit-depth=8 -define png:compression-filter=1 -define png:exclude-chunk="tEXt,zEXt,tIME" -strip -resize 512x512 prosym2_white_512x512.png
 'inkscape' '/tmp/magick-R0IQRo_krH_yykj3OOUQ3c4PmgnTsbyA' --export-filename='/tmp/magick-tEOztuJHhJw506bVBnAgy24xTseO3Ggz.png' --export-dpi='96' --export-background='rgb(100%,100%,100%)' --export-background-opacity='0.99999999999900002212' > '/tmp/magick-61W5ex2clF6QWSmomR359a934zWtx1BB' 2>&1
 prosym2_white_square.svg SVG 760x760 760x760+0+0 16-bit sRGB 1002B 0.030u 0:00.022
