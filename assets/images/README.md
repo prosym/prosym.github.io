@@ -74,3 +74,10 @@ $ convert -verbose prosym2_white_square.svg -define png:color-type=0 -define png
 prosym2_white_square.svg SVG 760x760 760x760+0+0 16-bit sRGB 1002B 0.030u 0:00.022
 prosym2_white_square.svg=>prosym2_white_512x512.png SVG 760x760=>512x512 512x512+0+0 16-bit sRGB 1002B 0.150u 0:00.025
 ```
+
+```
+$ convert -verbose prosym2_white_circle.svg -define png:color-type=0 -define png:bit-depth=8 -define png:compression-filter=1 -define png:exclude-chunk="tEXt,zEXt,tIME" -strip -resize 512x512 prosym2_white_circle_512x512.png
+'inkscape' '/tmp/magick-B1hSsfaahJfEJOet-Y_odZj-Pl0eBHvz' --export-filename='/tmp/magick-wtfHSwr2k6Utmcz0OAwZsQqxMDpR4ujB.png' --export-dpi='96' --export-background='rgb(100%,100%,100%)' --export-background-opacity='0.99999999999900002212' > '/tmp/magick-NQotaPsJE8182NKRX46cTTkn-V7ZCCEA' 2>&1
+prosym2_white_circle.svg SVG 960x960 960x960+0+0 16-bit sRGB 987B 0.040u 0:00.074
+prosym2_white_circle.svg=>prosym2_white_circle_512x512.png SVG 960x960=>512x512 512x512+0+0 16-bit sRGB 987B 0.230u 0:00.045
+```
