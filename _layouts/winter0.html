@@ -13,7 +13,7 @@
 <meta name="twitter:card" content="summary"/>
 <title>第{{ page.symposium }}回 プログラミング・シンポジウム</title>
 <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
-<link rel="icon" href="{{ "/assets/images/prosym2_white_square.svg" | relative_url }}" type="image/svg+xml">
+{% if page.symbol %}<link rel="icon" href="{{ "/assets/images/prosym2_white_square.svg" | relative_url }}" type="image/svg+xml">{% endif %}
 <link rel="stylesheet" href="{{ "/assets/css/winter0.css" | relative_url }}" type="text/css" />
 </head>
 <body id="winter0">
