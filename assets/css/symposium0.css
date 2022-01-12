@@ -1,10 +1,7 @@
 /*
- * プログラミング・シンポジウム CSS [シンポジウム各回ページ用 Ver.0 - ロゴができる前用]
+ * プログラミング・シンポジウム CSS [シンポジウム各回ページ用 - 第1回 〜 第43回共通]
  *
- * - シンポジウム各回のページ (「第XX回 プログラミング・シンポジウム」など) 用の CSS ファイルです。
- * - 新しい CSS ファイルを毎年用意することを意図したものではありません。後年のページでこの CSS ファイルを使用しても大丈夫です。
- * - ただし、この CSS ファイルを不用意に変更すると、過去のページが壊れる可能性があります。
- * - 次の開催からスタイルを新しくしたくなった場合、この CSS ファイルを変更するのではなく、新しい symposiumX.css を用意してください。
+ * - この CSS ファイルを不用意に変更すると、過去のページが壊れる可能性があります。
  */
 @import url("./prosym.css");
 
@@ -20,10 +17,21 @@ body#symposium0 header div#symbol-title {
     float: left;
 }
 
+body#symposium0 header div#symbol-title img#prosym-symbol {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    width: 2.85rem;  /* 2.4 * 760 / 640 */
+    height: 2.4rem;
+    vertical-align: middle;
+}
+
 body#symposium0 header div#symbol-title h1#title {
     display: inline;
-    margin: 0 0 0 5px;
+    margin: 0 0 0 16px;
     padding: 0;
+    top: 0;
+    vertical-align: middle;
     font-size: 1.8rem;
 }
 
