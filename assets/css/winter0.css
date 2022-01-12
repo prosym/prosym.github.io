@@ -1,23 +1,23 @@
 /*
- * プログラミング・シンポジウム CSS [シンポジウム各回ページ用 - 第1回 〜 第43回共通]
+ * プログラミング・シンポジウム CSS [(冬の) シンポジウム各回ページ用 - 第1回 〜 第43回共通]
  *
  * - この CSS ファイルを不用意に変更すると、過去のページが壊れる可能性があります。
  */
 @import url("./prosym.css");
 
-body#symposium0 header {
+body#winter0 header {
     padding: 1.5em 1em 1.5em 1em;
     overflow: hidden;
 }
 
-body#symposium0 header div#symbol-title {
+body#winter0 header div#symbol-title {
     margin: 0;
     padding: 0;
     top: 0;
     float: left;
 }
 
-body#symposium0 header div#symbol-title img#prosym-symbol {
+body#winter0 header div#symbol-title img#prosym-symbol {
     margin: 0;
     padding: 0;
     top: 0;
@@ -26,7 +26,7 @@ body#symposium0 header div#symbol-title img#prosym-symbol {
     vertical-align: middle;
 }
 
-body#symposium0 header div#symbol-title h1#title {
+body#winter0 header div#symbol-title h1#title {
     display: inline;
     margin: 0 0 0 16px;
     padding: 0;
@@ -35,25 +35,25 @@ body#symposium0 header div#symbol-title h1#title {
     font-size: 1.8rem;
 }
 
-body#symposium0 header div#symbol-title h1#title a {
+body#winter0 header div#symbol-title h1#title a {
     color: #336699;
     text-decoration: none;
 }
 
-body#symposium0 header div#symbol-title h1#title a:hover {
+body#winter0 header div#symbol-title h1#title a:hover {
     text-decoration: underline;
 }
 
-body#symposium0 main {
+body#winter0 main {
     margin: 0;
     padding: 0 1em 0 2em;
 }
 
-body#symposium0 main section h2 {
+body#winter0 main section h2 {
     font-size: larger;
 }
 
-body#symposium0 footer {
+body#winter0 footer {
     margin: 0;
     padding: 1.5em 1em 1.5em 1em;
     overflow: hidden;
@@ -62,22 +62,22 @@ body#symposium0 footer {
     border-top: solid 1px #333333;
 }
 
-body#symposium0 footer a {
+body#winter0 footer a {
     color: #cccccc;
     text-decoration: none;
 }
 
-body#symposium0 footer a:hover {
+body#winter0 footer a:hover {
     text-decoration: underline;
 }
 
-body#symposium0 footer nav#bottom-navigation {
+body#winter0 footer nav#bottom-navigation {
     margin: 0;
     padding: 0 3em 0 3em;
     font-size: smaller;
 }
 
-body#symposium0 footer nav#bottom-navigation ul {
+body#winter0 footer nav#bottom-navigation ul {
     margin: 0;
     padding: 0;
     list-style: none;
