@@ -13,13 +13,25 @@ header {
     top: 0;
 }
 
-code.url {
+main code.url {
     font-family: monospace;
 }
 
-p.copyright {
+main a {
+    color: #336699;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 1px;
+}
+
+main a:hover, a:active, a:focus {
+    color: #003366;
+    text-decoration-style: solid;
+}
+
+footer p.copyright {
     margin: 0;
     padding: 0 3em 0 3em;
-    float: right;
+    text-align: right;
     font-size: smaller;
 }
