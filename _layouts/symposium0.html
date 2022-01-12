@@ -9,10 +9,21 @@
 <link rel="stylesheet" href="{{ "/assets/css/symposium0.css" | relative_url }}" type="text/css" />
 </head>
 <body id="symposium0">
-{% include header0.html %}
+<header>
+<div id="symbol-title">
+<h1 id="title"><a href="{{ page.symposium | relative_url }}/">第{{ page.symposium }}回 プログラミング・シンポジウム</a></h1>
+</div>
+</header>
 <main>
 {{ content }}
 </main>
-{% include footer0.html %}
+<footer>
+<nav id="bottom-navigation" aria-label="Bottom navigation">
+<ul>
+<li><a href="{{ "/" | relative_url }}">プログラミング・シンポジウム</a></li>
+</ul>
+</nav>
+<p class="copyright">Copyright &copy; 2022 Programming Symposium</p>
+</footer>
 </body>
 </html>
