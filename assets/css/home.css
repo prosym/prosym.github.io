@@ -1,35 +1,38 @@
+/*
+ * プログラミング・シンポジウム CSS [ホームページ (トップページ) 用]
+ */
 @import url("./prosym.css");
 
-body#home header {
-    padding: 2em 1em 2em 1em;
+header#home-header {
+    margin: 0;
+    padding: 0;
     overflow: hidden;
 }
 
-body#home header div#symbol-title {
-    margin-left: auto;
-    margin-right: auto;
+header#home-header div#home-symbol-title {
+    margin: 2rem auto 2rem auto;
+    padding: 0;
+    top: 0;
+}
+
+header#home-header div#home-symbol-title img#home-prosym-symbol {
+    display: block;
+    margin: 0 auto 2rem auto;
+    padding: 0;
+    width: 9.5rem;  /* 8.0 * 760.0 / 640.0 */
+    height: 8.0rem;
+}
+
+header#home-header div#home-symbol-title h1#home-title {
+    margin: 2rem 0 0 0;
+    padding: 0;
     text-align: center;
-    width: 100%;
-}
-
-body#home header div#symbol-title img#prosym-symbol {
-    margin: 0 0 1em 0;
-    padding: 0;
-    top: 0;
-    width: 8.55rem;  /* 7.2 * 760.0 / 640.0 */
-    height: 7.2rem;
-}
-
-body#home header div#symbol-title h1#title {
-    margin: 1em 0 0 0;
-    padding: 0;
-    top: 0;
-    font-size: 2rem;
+    font-size: 2.4rem;
 }
 
 body#home main {
     margin: 0;
-    padding: 0 1em 0 2em;
+    padding: 1.5em 2em 1.5em 2em;
 }
 
 body#home main section h2 {
@@ -70,29 +73,4 @@ body#home main section#scheduled-events ul.scheduled-event-items li.scheduled-ev
 
 body#home main section#scheduled-events ul.scheduled-event-items li.scheduled-event-item > ul > li:first-child {
     margin-top: 3px;
-}
-
-body#home footer {
-    background-color: #666666;
-    color: #cccccc;
-    padding: 1em;
-    margin: 0;
-    overflow: hidden;
-    border-top: solid 1px #333333;
-}
-
-body#home footer a {
-    color: #cccccc;
-    text-decoration: none;
-}
-
-body#home footer a:hover {
-    text-decoration: underline;
-}
-
-body#home footer p.copyright {
-    font-size: smaller;
-    margin: 0;
-    padding: 0;
-    float: right;
 }

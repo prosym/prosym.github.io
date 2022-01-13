@@ -4,7 +4,7 @@
 @import url("./prosym.css");
 
 body#page header {
-    padding: 1.5em 1em 1.5em 1em;
+    padding: 1.5rem 1rem 1.5rem 1rem;
     overflow: hidden;
 }
 
@@ -19,14 +19,14 @@ body#page header div#symbol-title img#prosym-symbol {
     margin: 0;
     padding: 0;
     top: 0;
-    width: 2.85rem;  /* 2.4 * 760 / 640 */
-    height: 2.4rem;
+    width: 3.8rem;  /* 3.2 * 760 / 640 */
+    height: 3.2rem;
     vertical-align: middle;
 }
 
 body#page header div#symbol-title h1#title {
     display: inline;
-    margin: 0 0 0 16px;
+    margin: 0 0 0 8px;
     padding: 0;
     top: 0;
     vertical-align: middle;
@@ -49,34 +49,4 @@ body#page main {
 
 body#page main section h2 {
     font-size: larger;
-}
-
-body#page footer {
-    margin: 0;
-    padding: 1.5em 1em 1.5em 1em;
-    overflow: hidden;
-    background-color: #666666;
-    color: #cccccc;
-    border-top: solid 1px #333333;
-}
-
-body#page footer a {
-    color: #cccccc;
-    text-decoration: none;
-}
-
-body#page footer a:hover {
-    text-decoration: underline;
-}
-
-body#page footer nav#bottom-navigation {
-    margin: 0;
-    padding: 0 3em 0 3em;
-    font-size: smaller;
-}
-
-body#page footer nav#bottom-navigation ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
 }
