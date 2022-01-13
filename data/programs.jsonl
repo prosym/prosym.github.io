@@ -1,4 +1,4 @@
-{"type": "symposium", "index": "1", "year": "1960", "starting_date": "1960-01-10", "ending_date": "1960-01-12", "venue": "大磯ホテル"}
+{"type": "symposium", "index": "1", "year": "1960", "first_date": "1960-01-10", "last_date": "1960-01-12", "venue": "大磯ホテル", "venue_city": "神奈川県大磯町", "venue_renewed": "大磯プリンスホテル", "book_type": "報告集", "book_title_separator": "en-dash", "book_editor": "数理科学総合研究㐧IV班"}
 {"type": "session", "title": "サブルーチン(関数近似を含む)", "index_original": "A"}
 {"type": "presentation", "subject": "大型計算機用関数近似についての一つの試み", "authors": [{"name": "山内,二郎"}], "first_page": "1", "last_page": "27", "index_original": "1", "filename": "WPRO1960A01.pdf"}
 {"type": "presentation", "subject": "山内の報告に対する討論", "authors": [{"name": "渋谷,政昭"}], "first_page": "28", "last_page": "29", "index_original": "2", "filename": "WPRO1960A02.pdf"}
@@ -28,7 +28,7 @@
 {"type": "presentation", "subject": "U.L.の簡単なformulaの機械によるmoofの作成について", "authors": [{"name": "杉林,益太郎"}], "first_page": "243", "last_page": "250", "index_original": "4", "filename": "WPRO1960E04.pdf"}
 {"type": "presentation", "subject": "LKの証明プログラミング", "authors": [{"name": "島内,剛一"}], "first_page": "251", "last_page": "253", "index_original": "5", "filename": "WPRO1960E05.pdf"}
 {"type": "presentation", "subject": "後記", "index_complemented": "Z01", "filename": "WPRO1960Z01.pdf"}
-{"type": "symposium", "index": "2", "year": "1961", "starting_date": "1961-01-08", "ending_date": "1961-01-10", "venue": "大磯"}
+{"type": "symposium", "index": "2", "year": "1961", "first_date": "1961-01-08", "last_date": "1961-01-10", "venue": "大磯ホテル", "venue_city": "神奈川県大磯町", "venue_renewed": "大磯プリンスホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "en-dash", "book_editor": "数理科学総合研究㐧IV班"}
 {"type": "session", "title": "論理設計", "index_original": "A"}
 {"type": "presentation", "subject": "PC-2におけるオーバー・フローの取扱いについて", "authors": [{"name": "後藤,英一"}], "first_page": "A-1", "index_original": "1", "filename": "WPRO1961A01.pdf"}
 {"type": "presentation", "subject": "浮動小数点計算における絶対値最小の非零数について", "authors": [{"name": "桂重,俊"}, {"name": "高橋,理"}], "first_page": "A-7", "index_original": "2", "filename": "WPRO1961A02.pdf"}
@@ -46,7 +46,7 @@
 {"type": "session", "title": "自由課題", "index_original": "E"}
 {"type": "presentation", "subject": "On an application of the pushdown technique", "authors": [{"name": "藤野,精一"}], "first_page": "E-1", "index_original": "1", "filename": "WPRO1961E01.pdf"}
 {"type": "presentation", "subject": "算術の問題を解くプログラム", "authors": [{"name": "清水,辰二郎"}], "first_page": "E-18", "index_original": "2", "filename": "WPRO1961E02.pdf"}
-{"type": "symposium", "index": "3", "year": "1962", "starting_date": "1962-01-08", "ending_date": "1962-01-10"}
+{"type": "symposium", "index": "3", "year": "1962", "first_date": "1962-01-08", "last_date": "1962-01-10", "venue": "大磯ホテル", "venue_city": "神奈川県大磯町", "venue_renewed": "大磯プリンスホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "数理科学総合研究㐧IV班"}
 {"type": "session", "title": "論理設計と自動プログラミング", "index_original": "A"}
 {"type": "presentation", "subject": "自動プログラミングにおけるsyntactic analysis", "authors": [{"name": "高橋,秀俊"}], "first_page": "A-1", "index_original": "1", "filename": "WPRO1962A01.pdf"}
 {"type": "presentation", "subject": "論理設計と自動プログラミング", "authors": [{"name": "高橋,茂"}], "first_page": "A-17", "index_original": "2", "filename": "WPRO1962A02.pdf"}
@@ -72,7 +72,7 @@
 {"type": "presentation", "subject": "Pattern Recognitionのための一つの試み", "authors": [{"name": "小松,彦三郎"}], "first_page": "E-11", "index_original": "2", "filename": "WPRO1962E02.pdf"}
 {"type": "presentation", "subject": "算術を解くプログラム", "authors": [{"name": "清水,辰二郎"}, {"name": "守本,浩"}], "first_page": "E-33", "index_original": "3", "filename": "WPRO1962E03.pdf"}
 {"type": "presentation", "subject": "記号処理と定理の機械的証明", "authors": [{"name": "高須,達"}], "first_page": "E-43", "index_original": "4", "filename": "WPRO1962E04.pdf"}
-{"type": "symposium", "index": "4", "year": "1963", "starting_date": "1963-01-09", "ending_date": "1963-01-11"}
+{"type": "symposium", "index": "4", "year": "1963", "first_date": "1963-01-09", "last_date": "1963-01-11", "venue": "大磯ホテル", "venue_city": "神奈川県大磯町", "venue_renewed": "大磯プリンスホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "数理科学総合研究㐧IV班"}
 {"type": "session", "title": "データ・プロセッシング", "index_original": "A"}
 {"type": "presentation", "subject": "データ処理理論の展望", "authors": [{"name": "関根,智明"}, {"name": "刀根,薫"}], "first_page": "A-1", "index_original": "1", "filename": "WPRO1963A01.pdf"}
 {"type": "session", "title": "自動プログラミング", "index_original": "B"}
@@ -102,7 +102,7 @@
 {"type": "presentation", "subject": "BTLの音波合成コンパイラ", "authors": [{"name": "藤村,靖"}], "first_page": "E-53", "index_original": "7", "filename": "WPRO1963E07.pdf"}
 {"type": "presentation", "subject": "マイクロプログラム制御計算機", "authors": [{"name": "萩原,宏"}], "first_page": "E-57", "index_original": "8", "filename": "WPRO1963E08.pdf"}
 {"type": "presentation", "subject": "汎用大型電子計算機のInstruction systemについて", "authors": [{"name": "村田,健郎"}], "first_page": "E-62", "index_original": "9", "filename": "WPRO1963E09.pdf"}
-{"type": "symposium", "index": "5", "year": "1964", "starting_date": "1964-01-08", "ending_date": "1964-01-10", "venue": "伊東ハヤトホテル"}
+{"type": "symposium", "index": "5", "year": "1964", "first_date": "1964-01-08", "last_date": "1964-01-10", "venue": "ハトヤホテル", "venue_city": "静岡県伊東市", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "プログラミング・シンポジウム委員会"}
 {"type": "session", "title": "システムプログラム-1", "index_original": "S1"}
 {"type": "presentation", "subject": "PROGRAM GENERATOR \"PREMAP\"", "authors": [{"name": "和田,英一"}, {"name": "原田,睦明"}], "first_page": "S1-1", "index_original": "1", "index_complemented": "S11", "filename": "WPRO1964S11.pdf"}
 {"type": "presentation", "subject": "NKモニタによる技術計算の運営", "authors": [{"name": "石田,康勝"}], "first_page": "S1-13", "index_original": "2", "index_complemented": "S12", "filename": "WPRO1964S12.pdf"}
@@ -141,7 +141,7 @@
 {"type": "presentation", "subject": "ある種の非線型常微分方程式の境界値問題数値解法", "authors": [{"name": "高田,勝"}], "first_page": "N-52", "index_original": "6", "index_complemented": "N06", "filename": "WPRO1964N06.pdf"}
 {"type": "presentation", "subject": "静電界のSynthesis E<sup>*</sup>", "authors": [{"name": "門倉,敏夫"}, {"name": "山本,浩"}], "first_page": "N-71", "index_original": "7", "index_complemented": "N07", "filename": "WPRO1964N07.pdf"}
 {"type": "presentation", "subject": "正規分布に関する近似関数", "authors": [{"name": "山内,二郎"}], "first_page": "N-107", "index_original": "8", "index_complemented": "N08", "filename": "WPRO1964N08.pdf"}
-{"type": "symposium", "index": "6", "year": "1965", "starting_date": "1965-01-12", "ending_date": "1965-01-14"}
+{"type": "symposium", "index": "6", "year": "1965", "first_date": "1965-01-12", "last_date": "1965-01-14", "venue": "ハトヤホテル", "venue_city": "静岡県伊東市", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "プログラミング・シンポジウム委員会"}
 {"type": "session", "index_original": "A"}
 {"type": "presentation", "subject": "実時間制御とその問題点", "authors": [{"name": "穂坂,衛"}], "first_page": "A-1", "index_original": "1", "filename": "WPRO1965A01.pdf"}
 {"type": "presentation", "subject": "東京オリンピックに使われたリアルタイム・システムについて", "authors": [{"name": "竹下,享"}], "first_page": "A-7", "index_original": "2", "filename": "WPRO1965A02.pdf"}
@@ -172,7 +172,7 @@
 {"type": "presentation", "subject": "多重積分のモンテカルロ法式計算について", "authors": [{"name": "宇野,利雄"}], "first_page": "D-18", "index_original": "4", "filename": "WPRO1965D04.pdf"}
 {"type": "presentation", "subject": "折りたゝみ計算法を利用して函数近似公式を作るプログラムについて", "authors": [{"name": "戸田,英雄"}], "first_page": "D-22", "index_original": "5", "filename": "WPRO1965D05.pdf"}
 {"type": "presentation", "subject": "General Theory of Most Efficient Codes", "authors": [{"name": "駒宮,安男"}], "first_page": "D-37", "index_original": "6", "filename": "WPRO1965D06.pdf"}
-{"type": "symposium", "index": "7", "year": "1966"}
+{"type": "symposium", "index": "7", "year": "1966", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "プログラミング・シンポジウム委員会"}
 {"type": "session", "index_original": "A"}
 {"type": "presentation", "subject": "泡箱写真の自動解析", "authors": [{"name": "後藤,英一"}], "first_page": "A-1", "index_original": "1", "filename": "WPRO1966A01.pdf"}
 {"type": "presentation", "subject": "仮名文字パタン認識の一考察", "authors": [{"name": "富田,真吾"}, {"name": "大泉,充郎"}], "first_page": "A-4", "index_original": "2", "filename": "WPRO1966A02.pdf"}
@@ -206,7 +206,7 @@
 {"type": "presentation", "subject": "自由討論 HITAC 5020用SLIPシステム", "authors": [{"name": "木村,泉"}], "index_complemented": "F01", "filename": "WPRO1966F01.pdf"}
 {"type": "presentation", "subject": "\"夢のシンポジウム\" 第1回報告集", "authors": [{"name": "米田,信夫"}], "first_page": "Y1-1", "index_complemented": "Y11", "filename": "WPRO1966Y11.pdf"}
 {"type": "presentation", "subject": "\"夢のシンポジウム\" 第2回報告集", "authors": [{"name": "田中,明"}], "first_page": "Y2-1", "index_complemented": "Y21", "filename": "WPRO1966Y21.pdf"}
-{"type": "symposium", "index": "8", "year": "1967"}
+{"type": "symposium", "index": "8", "year": "1967", "first_date": "1967-01-11", "last_date": "1967-01-13", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会"}
 {"type": "session", "index_original": "A"}
 {"type": "presentation", "subject": "論理数学", "authors": [{"name": "西村,敏男"}, {"name": "広瀬,健"}], "first_page": "A-1", "index_original": "1", "index_complemented": "A11", "filename": "WPRO1967A11.pdf"}
 {"type": "presentation", "subject": "COBOLのファイル", "authors": [{"name": "西村,恕彦"}], "first_page": "A-15", "index_original": "3-1", "index_complemented": "A31", "filename": "WPRO1967A31.pdf"}
@@ -238,7 +238,7 @@
 {"type": "presentation", "subject": "慶應義塾大学 実験用タイムシェアリング・システム", "authors": [{"name": "土居,範久"}], "first_page": "C-140", "index_original": "2-6", "index_complemented": "C26", "filename": "WPRO1967C26.pdf"}
 {"type": "presentation", "subject": "文献検索システム\"MELISS\"の紹介", "authors": [{"name": "春原,猛"}], "first_page": "C-144", "index_original": "2-7", "index_complemented": "C27", "filename": "WPRO1967C27.pdf"}
 {"type": "presentation", "subject": "\"夢のシンポジウム\" 第3回報告集", "first_page": "Y-1", "index_complemented": "Y11", "filename": "WPRO1967Y11.pdf"}
-{"type": "symposium", "index": "9", "year": "1968"}
+{"type": "symposium", "index": "9", "year": "1968", "first_date": "1968-01-10", "last_date": "1968-01-12", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会"}
 {"type": "session", "index_original": "A"}
 {"type": "presentation", "subject": "FORTRANプログラムにおける誤まりの傾向について", "authors": [{"name": "五十嵐,滋"}], "first_page": "A-1", "index_original": "1", "filename": "WPRO1968A01.pdf"}
 {"type": "presentation", "subject": "ALGOLによるプログラムの誤りの発見について", "authors": [{"name": "榊原,清"}], "first_page": "A-12", "index_original": "2", "filename": "WPRO1968A02.pdf"}
@@ -273,7 +273,7 @@
 {"type": "presentation", "subject": "ALGOL-FORTRAN様のプログラムの妥当性の判定について", "authors": [{"name": "五十嵐,滋"}], "first_page": "F-53", "index_original": "5", "filename": "WPRO1968F05.pdf"}
 {"type": "presentation", "subject": "FORTRAN言語間の自動変換プログラム", "authors": [{"name": "渡辺,坦"}, {"name": "漆原,広"}], "first_page": "F-60", "index_original": "6", "filename": "WPRO1968F06.pdf"}
 {"type": "presentation", "subject": "\"夢のシンポジウム\" 第4回話題の要旨", "first_page": "Y-1", "index_complemented": "Y01", "filename": "WPRO1968Y01.pdf"}
-{"type": "symposium", "index": "10", "year": "1969"}
+{"type": "symposium", "index": "10", "year": "1969", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会"}
 {"type": "session", "title": "総合報告", "index_original": "A"}
 {"type": "presentation", "subject": "マネジメント・インフォメーション・システムについて", "authors": [{"name": "渡辺,昭雄"}], "first_page": "A-1", "index_complemented": "A01", "filename": "WPRO1969A01.pdf"}
 {"type": "session", "title": "パネル討論", "index_original": "B"}
@@ -308,7 +308,7 @@
 {"type": "presentation", "subject": "FORTRANによる計算機の性能比較", "authors": [{"name": "相馬,嵩"}], "first_page": "E-153", "index_original": "11", "filename": "WPRO1969E11.pdf"}
 {"type": "session", "index_original": "F"}
 {"type": "presentation", "subject": "第1回 情報科学「若手の会」", "first_page": "F-1", "index_original": "1", "filename": "WPRO1969F01.pdf"}
-{"type": "symposium", "index": "11", "year": "1970"}
+{"type": "symposium", "index": "11", "year": "1970", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会"}
 {"type": "session", "index_original": "A"}
 {"type": "presentation", "subject": "[総合講演]図形入力装置について", "authors": [{"name": "萩原,宏"}], "first_page": "A-1", "index_complemented": "P01", "filename": "WPRO1970P01.pdf"}
 {"type": "presentation", "subject": "マイクロプログラム制御を用いた手書き文字図形処理", "authors": [{"name": "森,健一"}, {"name": "玄地,宏"}], "first_page": "A-7", "index_original": "1", "filename": "WPRO1970A01.pdf"}
@@ -351,7 +351,7 @@
 {"type": "session", "title": "\"夏のシンポジウム\"報告集", "index_original": "F"}
 {"type": "presentation", "subject": "コンパイラ自動作成シンポジウム報告", "authors": [{"name": "萩原,宏"}], "first_page": "F-1", "index_original": "1", "filename": "WPRO1970F01.pdf"}
 {"type": "presentation", "subject": "第2回情報科学「若手の会」夏の会報告", "first_page": "F-3", "index_original": "2", "filename": "WPRO1970F02.pdf"}
-{"type": "symposium", "index": "12", "year": "1971", "starting_date": "1971-01-12", "ending_date": "1971-01-14"}
+{"type": "symposium", "index": "12", "year": "1971", "first_date": "1971-01-12", "last_date": "1971-01-14", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会"}
 {"type": "session", "index_original": "A"}
 {"type": "presentation", "subject": "ヒドンラインアルゴリズムとデータ構造", "authors": [{"name": "高橋,栄"}], "first_page": "1", "index_original": "1", "filename": "WPRO1971A01.pdf"}
 {"type": "presentation", "subject": "図系処理言語モデル", "authors": [{"name": "高沢,嘉光"}, {"name": "酒巻,恒一"}, {"name": "山崎,信雄"}], "first_page": "8", "index_original": "2", "filename": "WPRO1971A02.pdf"}
@@ -385,7 +385,7 @@
 {"type": "presentation", "subject": "グラフィック・ディスプレイ・シンポジウム報告", "authors": [{"name": "和田,英一"}], "first_page": "315", "index_complemented": "R01", "filename": "WPRO1971R01.pdf"}
 {"type": "presentation", "subject": "オペレーティング・システムズ・シンポジウム報告", "authors": [{"name": "淵,一博"}, {"name": "土居,範久"}], "first_page": "318", "index_complemented": "R02", "filename": "WPRO1971R02.pdf"}
 {"type": "presentation", "subject": "第3回 情報科学「若手の会」夏の会報告", "first_page": "323", "index_complemented": "R03", "filename": "WPRO1971R03.pdf"}
-{"type": "symposium", "index": "13", "year": "1972", "starting_date": "1972-01-11", "ending_date": "1972-01-13"}
+{"type": "symposium", "index": "13", "year": "1972", "first_date": "1972-01-11", "last_date": "1972-01-13", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会"}
 {"type": "session", "index_original": "A"}
 {"type": "presentation", "subject": "プラント設計とシミュレーション", "authors": [{"name": "中杉,浩"}], "first_page": "1", "index_original": "2", "filename": "WPRO1972A02.pdf"}
 {"type": "session", "index_original": "B"}
@@ -423,7 +423,7 @@
 {"type": "presentation", "subject": "最良近似式の資料", "authors": [{"name": "戸田,英雄"}, {"name": "高山,文雄"}], "first_page": "295", "index_original": "5", "filename": "WPRO1972F05.pdf"}
 {"type": "presentation", "subject": "入出力割込機能を有するミニコン・システムのシミュレーション", "authors": [{"name": "小林,佑光"}, {"name": "長谷部,紀元"}, {"name": "井森,正敏"}, {"name": "大保,信夫"}, {"name": "国井,利泰"}, {"name": "高橋,秀俊"}], "first_page": "309", "index_original": "6", "filename": "WPRO1972F06.pdf"}
 {"type": "presentation", "subject": "第4回情報科学「若手の会」夏の会報告", "first_page": "319", "index_complemented": "R01", "filename": "WPRO1972R01.pdf"}
-{"type": "symposium", "index": "14", "year": "1973", "starting_date": "1973-01-10", "ending_date": "1973-01-12"}
+{"type": "symposium", "index": "14", "year": "1973", "first_date": "1973-01-10", "last_date": "1973-01-12", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会"}
 {"type": "session", "index_original": "A"}
 {"type": "presentation", "subject": "プログラミング学習システム(CLASS)", "authors": [{"name": "鍛冶,勝三"}, {"name": "佐竹,紀男"}], "first_page": "1", "index_original": "2", "filename": "WPRO1973A02.pdf"}
 {"type": "presentation", "subject": "CODASYLのデータベース", "authors": [{"name": "植村,俊亮"}, {"name": "西村,恕彦"}], "first_page": "11", "index_original": "3-1", "index_complemented": "A03-1", "filename": "WPRO1973A03-1.pdf"}
@@ -457,7 +457,7 @@
 {"type": "presentation", "subject": "プログラムのデシジョン・テーブルおよび表プログラムへの変換", "authors": [{"name": "守屋,慎次"}, {"name": "務台,哲郎"}, {"name": "平松,啓二"}], "first_page": "188", "index_original": "6", "filename": "WPRO1973D06.pdf"}
 {"type": "session", "index_original": "E"}
 {"type": "presentation", "subject": "汎用グラフィック言語UNGL", "authors": [{"name": "山本,欣子"}, {"name": "出羽,洋"}], "first_page": "199", "index_original": "1", "filename": "WPRO1973E01.pdf"}
-{"type": "symposium", "index": "15", "year": "1974", "starting_date": "1974-01-10", "ending_date": "1974-01-12"}
+{"type": "symposium", "index": "15", "year": "1974", "first_date": "1974-01-10", "last_date": "1974-01-12", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会"}
 {"type": "presentation", "subject": "巻頭言", "authors": [{"name": "山内,二郎"}], "index_complemented": "P01", "filename": "WPRO1974P01.pdf"}
 {"type": "session", "index_original": "A"}
 {"type": "presentation", "subject": "初等数学における概念の連結構造とその応用", "authors": [{"name": "長沢,勲"}], "first_page": "1", "index_original": "1", "filename": "WPRO1974A01.pdf"}
@@ -485,7 +485,7 @@
 {"type": "presentation", "subject": "マルチ・ミニコンピュータ・システム", "authors": [{"name": "田丸,啓吉"}, {"name": "藤谷,和男"}, {"name": "田中,哲男"}, {"name": "遠藤,則子"}], "first_page": "240", "index_original": "3", "filename": "WPRO1974D03.pdf"}
 {"type": "presentation", "subject": "大型機によるミニコンのプログラム・サポート", "authors": [{"name": "浅井,清"}, {"name": "稲見,泰生"}, {"name": "小沼,吉男"}], "first_page": "252", "index_original": "4", "filename": "WPRO1974D04.pdf"}
 {"type": "presentation", "subject": "ミニコンによる時分割システム", "authors": [{"name": "島内,剛一"}, {"name": "筧,捷彦"}, {"name": "加賀見,鉄雄"}], "first_page": "260", "index_original": "5", "filename": "WPRO1974D05.pdf"}
-{"type": "symposium", "index": "16", "year": "1975", "starting_date": "1975-01-09", "ending_date": "1975-01-11"}
+{"type": "symposium", "index": "16", "year": "1975", "first_date": "1975-01-09", "last_date": "1975-01-11", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "em-dash", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会"}
 {"type": "presentation", "subject": "まえがき", "index_complemented": "P01", "filename": "WPRO1975P01.pdf"}
 {"type": "presentation", "subject": "第16回 プログラミング・シンポジウムの準備にあたって", "index_complemented": "P02", "filename": "WPRO1975P02.pdf"}
 {"type": "presentation", "subject": "第16回 プログラミング・シンポジウム日程", "index_complemented": "P03", "filename": "WPRO1975P03.pdf"}
@@ -520,7 +520,7 @@
 {"type": "presentation", "subject": "計算機システム評価の数学的理論---システム性能の感度について---", "authors": [{"name": "原田,紀夫"}], "first_page": "332", "index_original": "29", "filename": "WPRO1975029.pdf"}
 {"type": "presentation", "subject": "ファイリングの新しい手法---中間パケットの構成による冗長度の改良---", "authors": [{"name": "加藤,一郎"}, {"name": "米田,清"}], "first_page": "343", "index_original": "30", "filename": "WPRO1975030.pdf"}
 {"type": "presentation", "subject": "新しいCOBOLコンパイラ検定システム(CCVS)紹介", "authors": [{"name": "植村,俊亮"}], "first_page": "359", "index_original": "31", "filename": "WPRO1975031.pdf"}
-{"type": "symposium", "index": "17", "year": "1976", "starting_date": "1976-01-08", "ending_date": "1976-01-10"}
+{"type": "symposium", "index": "17", "year": "1976", "first_date": "1976-01-08", "last_date": "1976-01-10", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "まえがき", "index_complemented": "P01", "filename": "WPRO1976P01.pdf"}
 {"type": "presentation", "subject": "第17回 プログラミング・シンポジウムの準備にあたって", "index_complemented": "P02", "filename": "WPRO1976P02.pdf"}
 {"type": "presentation", "subject": "第17回 プログラミング・シンポジウムプログラム", "index_complemented": "P03", "filename": "WPRO1976P03.pdf"}
@@ -543,7 +543,7 @@
 {"type": "presentation", "subject": "ミニコンLISPの移し換え", "authors": [{"name": "石井,博"}, {"name": "前野,年紀"}], "first_page": "167", "index_original": "16", "filename": "WPRO1976016.pdf"}
 {"type": "presentation", "subject": "数式処理ALの特徴とその意義", "authors": [{"name": "池原,悟"}, {"name": "岡田,博"}], "first_page": "179", "index_original": "17", "filename": "WPRO1976017.pdf"}
 {"type": "presentation", "subject": "数式処理言語MSCSYMAについて", "authors": [{"name": "戸田,英雄"}, {"name": "三島,健稔"}], "first_page": "191", "index_original": "18", "filename": "WPRO1976018.pdf"}
-{"type": "symposium", "index": "18", "year": "1977", "starting_date": "1977-01-12", "ending_date": "1977-01-14"}
+{"type": "symposium", "index": "18", "year": "1977", "first_date": "1977-01-12", "last_date": "1977-01-14", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "まえがき", "index_complemented": "P01", "filename": "WPRO1977P01.pdf"}
 {"type": "presentation", "subject": "第18回 プログラミング・シンポジウムの準備にあたって", "index_complemented": "P02", "filename": "WPRO1977P02.pdf"}
 {"type": "presentation", "subject": "第18回 プログラミング・シンポジウムプログラム", "index_complemented": "P03", "filename": "WPRO1977P03.pdf"}
@@ -579,7 +579,7 @@
 {"type": "presentation", "subject": "計測用インテリジェントステーションのソフトウエア", "authors": [{"name": "矢田,光治"}, {"name": "山浦,逸雄"}], "first_page": "187", "index_original": "36", "filename": "WPRO1977036.pdf"}
 {"type": "presentation", "subject": "汎用マークシート処理システム", "authors": [{"name": "近藤,頌子"}, {"name": "原田,賢一"}, {"name": "大野,義夫"}, {"name": "山本,喜一"}], "first_page": "194", "index_original": "37", "filename": "WPRO1977037.pdf"}
 {"type": "presentation", "subject": "九州工業大学情報処理教育センターのシステム開発・運用状況について", "authors": [{"name": "中山,泰雄"}, {"name": "深川,幸紀"}, {"name": "矢鳴,虎夫"}, {"name": "吉田,将"}], "first_page": "200", "index_original": "38", "filename": "WPRO1977038.pdf"}
-{"type": "symposium", "index": "19", "year": "1978", "starting_date": "1978-01-11", "ending_date": "1978-01-13"}
+{"type": "symposium", "index": "19", "year": "1978", "first_date": "1978-01-11", "last_date": "1978-01-13", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "まえがき", "index_complemented": "P01", "filename": "WPRO1978P01.pdf"}
 {"type": "presentation", "subject": "第19回 プログラミング・シンポジウムの準備にあたって", "index_complemented": "P02", "filename": "WPRO1978P02.pdf"}
 {"type": "presentation", "subject": "第19回 プログラミング・シンポジウムプログラム", "index_complemented": "P03", "filename": "WPRO1978P03.pdf"}
@@ -602,7 +602,7 @@
 {"type": "presentation", "subject": "イオタ言語とイオタシステム--階層的プログラム開発とその検証のための言語の方法とシステム", "authors": [{"name": "中島,玲二"}, {"name": "中原,早生"}, {"name": "本田,道夫"}], "first_page": "121", "index_original": "27", "filename": "WPRO1978027.pdf"}
 {"type": "presentation", "subject": "関係データベース上の高度な質問応答過程について", "authors": [{"name": "古川,康一"}], "first_page": "133", "index_original": "28", "filename": "WPRO1978028.pdf"}
 {"type": "presentation", "subject": "ソフトウェアシステムの安全性とドメイン制御機構", "authors": [{"name": "星野,康夫"}, {"name": "江川,明人"}, {"name": "増田,龍彦"}], "first_page": "145", "index_original": "30", "filename": "WPRO1978030.pdf"}
-{"type": "symposium", "index": "20", "year": "1979", "starting_date": "1979-01-09", "ending_date": "1979-01-11"}
+{"type": "symposium", "index": "20", "year": "1979", "first_date": "1979-01-09", "last_date": "1979-01-11", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "第20回 プログラミング・シンポジウム開催に際して", "index_complemented": "P01", "filename": "WPRO1979P01.pdf"}
 {"type": "presentation", "subject": "第20回 プログラミング・シンポジウムの準備にあたって", "index_complemented": "P02", "filename": "WPRO1979P02.pdf"}
 {"type": "presentation", "subject": "第20回 プログラミング・シンポジウム プログラム", "index_complemented": "P03", "filename": "WPRO1979P03.pdf"}
@@ -627,7 +627,7 @@
 {"type": "presentation", "subject": "プログラムの性質の実験的分析", "authors": [{"name": "深津,貞雄"}, {"name": "南澤,英雄"}, {"name": "亀田,壽夫"}], "first_page": "180", "index_original": "28", "filename": "WPRO1979028.pdf"}
 {"type": "presentation", "subject": "SOIR (Set Oriented Information Retrieval)ランゲージ", "authors": [{"name": "石井,義興"}, {"name": "西林,瑞夫"}, {"name": "中井,浩"}, {"name": "諸岡,徹"}], "first_page": "189", "index_original": "30", "filename": "WPRO1979030.pdf"}
 {"type": "presentation", "subject": "データベース設計システム", "authors": [{"name": "川越,恭二"}, {"name": "真名垣,昌夫"}], "first_page": "198", "index_original": "31", "filename": "WPRO1979031.pdf"}
-{"type": "symposium", "index": "21", "year": "1980", "starting_date": "1980-01-08", "ending_date": "1980-01-10"}
+{"type": "symposium", "index": "21", "year": "1980", "first_date": "1980-01-08", "last_date": "1980-01-10", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "第21回 プログラミング・シンポジウム開催に際して", "index_complemented": "P01", "filename": "WPRO1980P01.pdf"}
 {"type": "presentation", "subject": "幹事長として", "index_complemented": "P02", "filename": "WPRO1980P02.pdf"}
 {"type": "presentation", "subject": "第21回 プログラミング・シンポジウム プログラム", "index_complemented": "P03", "filename": "WPRO1980P03.pdf"}
@@ -657,7 +657,7 @@
 {"type": "presentation", "subject": "マイクロプロセッサのミニコンシステムへの応用", "authors": [{"name": "筧,捷彦"}, {"name": "石井,博"}], "first_page": "195", "index_original": "29", "filename": "WPRO1980029.pdf"}
 {"type": "presentation", "subject": "データベース・マシンに適した研究用データベースAISの試作", "authors": [{"name": "有沢,博"}], "first_page": "203", "index_original": "31", "filename": "WPRO1980031.pdf"}
 {"type": "presentation", "subject": "分散型データベース(JIPNET-DDB)における問合せ変換", "authors": [{"name": "滝沢,誠"}, {"name": "浜中,栄治"}], "first_page": "212", "index_original": "32", "filename": "WPRO1980032.pdf"}
-{"type": "symposium", "index": "22", "year": "1981", "starting_date": "1981-01-12", "ending_date": "1981-01-14"}
+{"type": "symposium", "index": "22", "year": "1981", "first_date": "1981-01-12", "last_date": "1981-01-14", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "第22回 プログラミング・シンポジウム開催に際して", "index_complemented": "P01", "filename": "WPRO1981P01.pdf"}
 {"type": "presentation", "subject": "この一年", "index_complemented": "P02", "filename": "WPRO1981P02.pdf"}
 {"type": "presentation", "subject": "第22回 プログラミング・シンポジウム プログラム", "index_complemented": "P03", "filename": "WPRO1981P03.pdf"}
@@ -685,7 +685,7 @@
 {"type": "presentation", "subject": "ハッシング技法における探索効率の改良について --多重予測子の評価と実験--", "authors": [{"name": "西原,清一"}], "first_page": "177", "index_original": "29", "filename": "WPRO1981029.pdf"}
 {"type": "presentation", "subject": "大型OSのユーザ・インターフェースの研究環境向き改造", "authors": [{"name": "長谷部,紀元"}, {"name": "鷹野,澄"}, {"name": "小沢,宏"}, {"name": "木村,友則"}, {"name": "石田,晴久"}], "first_page": "187", "index_original": "30", "filename": "WPRO1981030.pdf"}
 {"type": "presentation", "subject": "鉄道の最適な保線作業時間帯を決定する算法とデータ構造", "authors": [{"name": "中森,真理雄"}], "first_page": "197", "index_original": "32", "filename": "WPRO1981032.pdf"}
-{"type": "symposium", "index": "23", "year": "1982", "starting_date": "1982-01-12", "ending_date": "1982-01-14"}
+{"type": "symposium", "index": "23", "year": "1982", "first_date": "1982-01-12", "last_date": "1982-01-14", "venue": "モテル・ハコネ", "venue_city": "神奈川県箱根町", "venue_renewed": "箱根彫刻の森ホテル", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "第23回 プログラミング・シンポジウム開催に際して", "index_complemented": "P01", "filename": "WPRO1982P01.pdf"}
 {"type": "presentation", "subject": "一年また一年", "index_complemented": "P02", "filename": "WPRO1982P02.pdf"}
 {"type": "presentation", "subject": "第23回 プログラミング・シンポジウム プログラム", "index_complemented": "P03", "filename": "WPRO1982P03.pdf"}
@@ -711,7 +711,7 @@
 {"type": "presentation", "subject": "計算機による美の扱いの試み", "authors": [{"name": "佐々木,睦子"}, {"name": "佐々木,建昭"}], "first_page": "164", "index_original": "19", "filename": "WPRO1982019.pdf"}
 {"type": "presentation", "subject": "文字列の新高速処理手法について SNOBOL 3の場合", "authors": [{"name": "角田,博保"}], "first_page": "174", "index_original": "20", "filename": "WPRO1982020.pdf"}
 {"type": "presentation", "subject": "仮名漢字変換システムの専門用語辞書 田中康仁,", "authors": [{"name": "長田,孝治"}], "first_page": "184", "index_original": "21", "filename": "WPRO1982021.pdf"}
-{"type": "symposium", "index": "24", "year": "1983", "starting_date": "1983-01-11", "ending_date": "1983-01-13"}
+{"type": "symposium", "index": "24", "year": "1983", "first_date": "1983-01-11", "last_date": "1983-01-13", "venue": "箱根ホテル小涌園", "venue_city": "神奈川県箱根町", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "目次", "index_complemented": "P01", "filename": "WPRO1983P01.pdf"}
 {"type": "presentation", "subject": "Pascal数値データに関する機械独立コード生成法", "authors": [{"name": "浜田,穂積"}], "first_page": "1", "index_original": "1", "filename": "WPRO1983001.pdf"}
 {"type": "presentation", "subject": "設計システム記述言語ADLの概要と機械設計における使用経験", "authors": [{"name": "長澤,勲"}, {"name": "古川,由美子"}, {"name": "荒牧,重登"}], "first_page": "7", "index_original": "2", "filename": "WPRO1983002.pdf"}
@@ -733,7 +733,7 @@
 {"type": "presentation", "subject": "英文テキスト清書システムの改良", "authors": [{"name": "中川,雅子"}], "first_page": "151", "index_original": "18", "filename": "WPRO1983018.pdf"}
 {"type": "presentation", "subject": "ラスタ・ディスプレイを使った近似的隠れ線消去法", "authors": [{"name": "大野,義夫"}, {"name": "神保,修"}], "first_page": "158", "index_original": "19", "filename": "WPRO1983019.pdf"}
 {"type": "presentation", "subject": "プログラム索引道具群の作成経験", "authors": [{"name": "君島,浩"}], "first_page": "168", "index_original": "20", "filename": "WPRO1983020.pdf"}
-{"type": "symposium", "index": "25", "year": "1984", "starting_date": "1984-01-10", "ending_date": "1984-01-12", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "25", "year": "1984", "first_date": "1984-01-10", "last_date": "1984-01-12", "venue": "箱根ホテル小涌園", "venue_city": "神奈川県箱根町", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "円周率 --高速計算法と数値の統計性--", "authors": [{"name": "田村,良明", "affiliation": "緯度観測所"}, {"name": "吉野,さやか", "affiliation": "筑波大学"}, {"name": "後,保範", "affiliation": "日立製作所"}, {"name": "金田,康正", "affiliation": "東京大学"}], "index_original": "25-1", "filename": "WPRO1984001.pdf"}
 {"type": "presentation", "subject": "汎用音楽記述言語の設計試作", "authors": [{"name": "笹川,瑠美", "affiliation": "筑波大学"}, {"name": "三好,和憲", "affiliation": "筑波大学"}, {"name": "五十嵐,滋", "affiliation": "筑波大学"}], "index_original": "25-2", "filename": "WPRO1984002.pdf"}
 {"type": "presentation", "subject": "フレキシブルな立体表現と convex hull アルゴリズムについて", "authors": [{"name": "古川,進", "affiliation": "山梨大学"}], "index_original": "25-3", "filename": "WPRO1984003.pdf"}
@@ -753,7 +753,7 @@
 {"type": "presentation", "subject": "画面エディタEMACSのユーザ特性について", "authors": [{"name": "奥乃,博", "affiliation": "日本電信電話公社"}], "index_original": "25-17", "filename": "WPRO1984017.pdf"}
 {"type": "presentation", "subject": "ビットマップディスプレイのためのプリティプリンタ", "authors": [{"name": "和田,英一", "affiliation": "東京大学"}], "index_original": "25-18", "filename": "WPRO1984018.pdf"}
 {"type": "presentation", "subject": "日本語によるデータベース検索システム", "authors": [{"name": "泉田,義男", "affiliation": "富士通研究所"}], "index_original": "25-19", "filename": "WPRO1984019.pdf"}
-{"type": "symposium", "index": "26", "year": "1985", "starting_date": "1985-01-08", "ending_date": "1985-01-10"}
+{"type": "symposium", "index": "26", "year": "1985", "first_date": "1985-01-08", "last_date": "1985-01-10", "venue": "箱根ホテル小涌園", "venue_city": "神奈川県箱根町", "venue_estimate": "山内二郎先生 人と業績", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "動的複合実行方式に基づく統合的プログラミング環境", "authors": [{"name": "佐藤,豊"}, {"name": "板野,肯三"}], "first_page": "1", "index_original": "1", "filename": "WPRO1985001.pdf"}
 {"type": "presentation", "subject": "超時空プログラミングシステムUranus", "authors": [{"name": "中島,秀之"}], "first_page": "13", "index_original": "2", "filename": "WPRO1985002.pdf"}
 {"type": "presentation", "subject": "招待講演「新しい宇宙像」", "authors": [{"name": "森本,雅樹"}], "first_page": "25", "index_original": "3", "filename": "WPRO1985003.pdf"}
@@ -776,7 +776,7 @@
 {"type": "presentation", "subject": "マンマシンシステムとしての自動演奏システムの現状", "authors": [{"name": "笹川,瑠美"}, {"name": "三好,和憲"}, {"name": "五十嵐,滋"}], "first_page": "167", "index_original": "20", "filename": "WPRO1985020.pdf"}
 {"type": "presentation", "subject": "レビューのレビュー", "authors": [{"name": "君島,浩"}, {"name": "日野,克重"}], "first_page": "175", "index_original": "21", "filename": "WPRO1985021.pdf"}
 {"type": "presentation", "subject": "大型コンピュータを用いたオンライン・ペーパーレス・ファイル・システムの開発", "authors": [{"name": "小川,靖彦"}, {"name": "中山,和彦"}], "first_page": "183", "index_original": "22", "filename": "WPRO1985022.pdf"}
-{"type": "symposium", "index": "27", "year": "1986", "starting_date": "1986-01-08", "ending_date": "1986-01-10", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "27", "year": "1986", "first_date": "1986-01-08", "last_date": "1986-01-10", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "OPS5が提供するプログラミング・パラダイムと実行効率について", "authors": [{"name": "戸沢,義夫", "affiliation": "日本IBM"}], "index_original": "27-1", "filename": "WPRO1986001.pdf"}
 {"type": "presentation", "subject": "論理型言語におけるexplictな否定知識", "authors": [{"name": "中川,裕志", "affiliation": "横浜国立大学"}], "index_original": "27-2", "filename": "WPRO1986002.pdf"}
 {"type": "presentation", "subject": "(And/Or木 ∪ ガード)∩データフロー⊂GHC", "authors": [{"name": "栗原,正仁", "affiliation": "北海道大学"}, {"name": "藤村,考", "affiliation": "北海道大学"}, {"name": "加地,郁夫", "affiliation": "北海道大学"}], "index_original": "27-3", "filename": "WPRO1986003.pdf"}
@@ -796,7 +796,7 @@
 {"type": "presentation", "subject": "ドキュメンテーションエンジニアリングによるマニュアル作成", "authors": [{"name": "根岸,寛明", "affiliation": "富士通"}, {"name": "吉田,哲三", "affiliation": "富士通"}], "index_original": "27-17", "filename": "WPRO1986017.pdf"}
 {"type": "presentation", "subject": "情報処理部門の意識改革の試み --プロトタイピングによるスケジュール管理システムの開発を例に--", "authors": [{"name": "坂内,広蔵", "affiliation": "電力中央研究所"}, {"name": "寺野,隆雄", "affiliation": "電力中央研究所"}, {"name": "高橋,光裕", "affiliation": "中国電力"}, {"name": "佐藤,隆", "affiliation": "中国電力"}, {"name": "宇佐川,雄士", "affiliation": "中国電力"}], "index_original": "27-18", "filename": "WPRO1986018.pdf"}
 {"type": "presentation", "subject": "国産数式処理システムGALの開発", "authors": [{"name": "佐々木,建昭", "affiliation": "理化学研究所"}, {"name": "元吉,文男", "affiliation": "電子技術総合研究所"}], "index_original": "27-19", "filename": "WPRO1986019.pdf"}
-{"type": "symposium", "index": "28", "year": "1987", "starting_date": "1987-01-07", "ending_date": "1987-01-09", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "28", "year": "1987", "first_date": "1987-01-07", "last_date": "1987-01-09", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "キャンパスネットワーク設置の経験", "authors": [{"name": "前野,年紀", "affiliation": "東京工業大学"}], "index_original": "28-1", "filename": "WPRO1987001.pdf"}
 {"type": "presentation", "subject": "JUNETの現状と今後", "authors": [{"name": "村井,純", "affiliation": "東京工業大学"}], "index_original": "28-2", "filename": "WPRO1987002.pdf"}
 {"type": "presentation", "subject": "JUNETの漢字コード --決定顛末記--", "authors": [{"name": "小川,貴英", "affiliation": "津田塾大学"}], "index_original": "28-3", "filename": "WPRO1987003.pdf"}
@@ -822,7 +822,7 @@
 {"type": "presentation", "subject": "再帰呼出しのコード生成と速度", "authors": [{"name": "梅村,恭司", "affiliation": "NTT"}], "index_original": "28-23", "filename": "WPRO1987023.pdf"}
 {"type": "presentation", "subject": "8086/680xx用BCPLコードジェネレータ--アセンブラコードオプティマイザは役立つか?", "authors": [{"name": "何,暁旬", "affiliation": "東京大学"}, {"name": "藤波,順久", "affiliation": "東京大学"}, {"name": "山内,宗夫", "affiliation": "東京大学"}, {"name": "金田,康正", "affiliation": "東京大学"}, {"name": "村尾,裕一", "affiliation": "東京大学"}], "index_original": "28-24", "filename": "WPRO1987024.pdf"}
 {"type": "presentation", "subject": "円周率 -- 高速計算法と統計性 -- (2)", "authors": [{"name": "金田,康正", "affiliation": "東京大学"}, {"name": "田村,良明", "affiliation": "緯度観測所"}], "index_original": "28-25", "filename": "WPRO1987025.pdf"}
-{"type": "symposium", "index": "29", "year": "1988", "starting_date": "1988-01-12", "ending_date": "1988-01-14", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "29", "year": "1988", "first_date": "1988-01-12", "last_date": "1988-01-14", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "並行プログラム用デバッガmimsyのユーザインタフェース", "authors": [{"name": "小松,克行", "affiliation": "早稲田大学"}, {"name": "小田,辰夫", "affiliation": "早稲田大学"}, {"name": "山田,剛", "affiliation": "早稲田大学"}, {"name": "小原,啓義", "affiliation": "早稲田大学"}], "index_original": "29-1", "filename": "WPRO1988001.pdf"}
 {"type": "presentation", "subject": "CLUマシンのユーザインタフェース", "authors": [{"name": "中村,秀男", "affiliation": "東京工業大学"}, {"name": "二瓶,勝敏", "affiliation": "東京工業大学"}, {"name": "明石,修", "affiliation": "東京工業大学"}, {"name": "関,啓一", "affiliation": "東京工業大学"}], "index_original": "29-2", "filename": "WPRO1988002.pdf"}
 {"type": "presentation", "subject": "パソコンでもできる移植可能な実習用アセンブラ", "authors": [{"name": "大駒,誠一", "affiliation": "慶應義塾大学"}, {"name": "今井,誠司", "affiliation": "慶應義塾大学"}], "index_original": "29-3", "filename": "WPRO1988003.pdf"}
@@ -841,7 +841,7 @@
 {"type": "presentation", "subject": "数式処理システムGALにおける数学公式データベース", "authors": [{"name": "佐々木,建昭", "affiliation": "理化学研究所"}, {"name": "増永,良文", "affiliation": "情報大"}, {"name": "三枝,義典", "affiliation": "情報大"}, {"name": "阿部,昭博", "affiliation": "富士通"}, {"name": "元吉,文男", "affiliation": "電子技術総合研究所"}, {"name": "佐々木,睦子", "affiliation": "理化学研究所"}], "index_original": "29-16", "filename": "WPRO1988016.pdf"}
 {"type": "presentation", "subject": "共通楽譜データ形式の設計", "authors": [{"name": "山崎,直子", "affiliation": "東京農工大学"}, {"name": "佐野,靖子", "affiliation": "東京農工大学"}, {"name": "渡邊,哲史", "affiliation": "東京農工大学"}, {"name": "高田,正之", "affiliation": "東京農工大学"}, {"name": "小谷,善行", "affiliation": "東京農工大学"}], "index_original": "29-17", "filename": "WPRO1988017.pdf"}
 {"type": "presentation", "subject": "音楽処理の2つの試み", "authors": [{"name": "白川,貴浩", "affiliation": "筑波大学"}, {"name": "富塚,英省", "affiliation": "筑波大学"}, {"name": "五十嵐,滋", "affiliation": "筑波大学"}], "index_original": "29-18", "filename": "WPRO1988018.pdf"}
-{"type": "symposium", "index": "30", "year": "1989", "starting_date": "1989-01-10", "ending_date": "1989-01-12", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "30", "year": "1989", "first_date": "1989-01-10", "last_date": "1989-01-12", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "PIT: Prolog上での図形絵エディタ用ICON作成支援ツールについて", "authors": [{"name": "萩原,規子", "affiliation": "日本電気"}], "index_original": "30-1", "filename": "WPRO1989001.pdf"}
 {"type": "presentation", "subject": "視覚プログラミングシステムLIVE", "authors": [{"name": "小島,啓二", "affiliation": "日立製作所"}, {"name": "松田,芳樹", "affiliation": "日立製作所"}], "index_original": "30-2", "filename": "WPRO1989002.pdf"}
 {"type": "presentation", "subject": "手作り計算機実習室の手作りCCTV --計算機教育用映像システムの構築--", "authors": [{"name": "和田,勉", "affiliation": "長野大学"}, {"name": "堀内,一夫", "affiliation": "第一無線"}], "index_original": "30-3", "filename": "WPRO1989003.pdf"}
@@ -860,7 +860,7 @@
 {"type": "presentation", "subject": "オブジェクト指向における再利用のための構成支援環境", "authors": [{"name": "片山,佳則", "affiliation": "富士通"}], "index_original": "30-16", "filename": "WPRO1989016.pdf"}
 {"type": "presentation", "subject": "プログラミング言語TIPE/Lの型機構", "authors": [{"name": "高田,広章", "affiliation": "東京大学"}], "index_original": "30-17", "filename": "WPRO1989017.pdf"}
 {"type": "presentation", "subject": "軌跡準同型によるプログラムの仕様の保存性", "authors": [{"name": "水谷,哲也", "affiliation": "筑波大学"}, {"name": "五十嵐,滋", "affiliation": "筑波大学"}, {"name": "辻,尚史", "affiliation": "筑波大学"}], "index_original": "30-18", "filename": "WPRO1989018.pdf"}
-{"type": "symposium", "index": "31", "year": "1990", "starting_date": "1990-01-09", "ending_date": "1990-01-11", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "31", "year": "1990", "first_date": "1990-01-09", "last_date": "1990-01-11", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "手書きユーザインタフェース", "authors": [{"name": "曽谷,俊男", "affiliation": "東京農工大学"}, {"name": "本間,正之", "affiliation": "東京農工大学"}, {"name": "幸田,恵理子", "affiliation": "東京農工大学"}, {"name": "福島,英洋", "affiliation": "東京農工大学"}, {"name": "中川,勇", "affiliation": "東京農工大学"}, {"name": "中川,正樹", "affiliation": "東京農工大学"}, {"name": "高橋,延匡", "affiliation": "東京農工大学"}], "index_original": "31-1", "filename": "WPRO1990001.pdf"}
 {"type": "presentation", "subject": "表エディター", "authors": [{"name": "椎尾,一郎", "affiliation": "日本IBM"}, {"name": "坂入,隆", "affiliation": "日本IBM"}], "index_original": "31-2", "filename": "WPRO1990002.pdf"}
 {"type": "presentation", "subject": "PL/I初心者エラー相談システム", "authors": [{"name": "木下,成顕", "affiliation": "図書館情報大学"}, {"name": "平賀,譲", "affiliation": "図書館情報大学"}], "index_original": "31-3", "filename": "WPRO1990003.pdf"}
@@ -878,7 +878,7 @@
 {"type": "presentation", "subject": "並列lisp処理系によるXウィンドウシステム・インタフェースの構築", "authors": [{"name": "新田,善久", "affiliation": "東京大学"}], "index_original": "31-15", "filename": "WPRO1990015.pdf"}
 {"type": "presentation", "subject": "究極のデザインCADを目指して", "authors": [{"name": "古川,進", "affiliation": "山梨大学"}, {"name": "伊藤,誠", "affiliation": "山梨大学"}, {"name": "山田,晋", "affiliation": "トヨタ自動車"}, {"name": "萩原,茂", "affiliation": "山梨県工業技術センター"}], "index_original": "31-16", "filename": "WPRO1990016.pdf"}
 {"type": "presentation", "subject": "続. コンピュータに「絵」を描かせるには", "authors": [{"name": "斎藤,隆文", "affiliation": "NTT"}, {"name": "高橋,時市郎", "affiliation": "NTT"}], "index_original": "31-17", "filename": "WPRO1990017.pdf"}
-{"type": "symposium", "index": "32", "year": "1991", "starting_date": "1991-01-08", "ending_date": "1991-01-10", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "32", "year": "1991", "first_date": "1991-01-08", "last_date": "1991-01-10", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "漢字スケルトンフォントの生成支援システム", "authors": [{"name": "田中,哲朗", "affiliation": "東京大学"}, {"name": "石井,祐一郎", "affiliation": "東京大学"}, {"name": "長橋,賢児", "affiliation": "東京大学"}, {"name": "竹内,幹夫", "affiliation": "東京大学"}, {"name": "岩崎,英哉", "affiliation": "東京大学"}, {"name": "和田,英一", "affiliation": "東京大学"}], "index_original": "32-1", "filename": "WPRO1991001.pdf"}
 {"type": "presentation", "subject": "グラフィック環境とマクロプログラミング", "authors": [{"name": "美馬,義亮", "affiliation": "日本IBM"}], "index_original": "32-2", "filename": "WPRO1991002.pdf"}
 {"type": "presentation", "subject": "組合せキーを用いるプログラム 5指キーボードシステム", "authors": [{"name": "神阪,博通", "affiliation": "三重大学"}], "index_original": "32-3", "filename": "WPRO1991003.pdf"}
@@ -898,7 +898,7 @@
 {"type": "presentation", "subject": "コンピュータを用いた詰め将棋の評価と分析", "authors": [{"name": "松原,仁", "affiliation": "電子技術総合研究所"}, {"name": "半田,剣一", "affiliation": "電子技術総合研究所"}, {"name": "元吉,文男", "affiliation": "電子技術総合研究所"}], "index_original": "32-17", "filename": "WPRO1991017.pdf"}
 {"type": "presentation", "subject": "KEIO SFCのおけるコンピュータリテラシー教育", "authors": [{"name": "安村,通晃", "affiliation": "慶應義塾大学"}, {"name": "有澤,誠", "affiliation": "慶應義塾大学"}, {"name": "斎藤,信男", "affiliation": "慶應義塾大学"}], "index_original": "32-18", "filename": "WPRO1991018.pdf"}
 {"type": "presentation", "subject": "言語CのCAIシステムの設計とそのプログラム実行環境の開発", "authors": [{"name": "森田,雅夫", "affiliation": "東京農工大学"}, {"name": "早川,栄一", "affiliation": "東京農工大学"}, {"name": "玉木,裕二", "affiliation": "東京農工大学"}, {"name": "並木,美太郎", "affiliation": "東京農工大学"}, {"name": "高橋,延匡", "affiliation": "東京農工大学"}], "index_original": "32-19", "filename": "WPRO1991019.pdf"}
-{"type": "symposium", "index": "33", "year": "1992", "starting_date": "1992-01-08", "ending_date": "1992-01-10", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "33", "year": "1992", "first_date": "1992-01-08", "last_date": "1992-01-10", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "絵はなずみなしでも描けるか?", "authors": [{"name": "久野,靖", "affiliation": "筑波大学"}, {"name": "大木,敦雄", "affiliation": "筑波大学"}, {"name": "角田,博保", "affiliation": "電気通信大学"}], "index_original": "33-1", "filename": "WPRO1992001.pdf"}
 {"type": "presentation", "subject": "アルゴリズムアニメーションシステム", "authors": [{"name": "金谷,延幸", "affiliation": "群馬大学"}, {"name": "大野,敬史", "affiliation": "群馬大学"}, {"name": "佐渡,一広", "affiliation": "群馬大学"}], "index_original": "33-2", "filename": "WPRO1992002.pdf"}
 {"type": "presentation", "subject": "航行めがねワールド: 反応する現実のビュー", "authors": [{"name": "大座畑,重光", "affiliation": "マッキンテリジェンス"}], "index_original": "33-3", "filename": "WPRO1992003.pdf"}
@@ -917,7 +917,7 @@
 {"type": "presentation", "subject": "Process Dependence Net as a Representation or Concurrent Programs", "authors": [{"name": "程,京徳", "affiliation": "九州大学"}], "index_original": "33-16", "filename": "WPRO1992016.pdf"}
 {"type": "presentation", "subject": "協調アーキテクチャに向けてのエージェントの会話モデル", "authors": [{"name": "中島,秀之", "affiliation": "電子技術総合研究所"}], "index_original": "33-17", "filename": "WPRO1992017.pdf"}
 {"type": "presentation", "subject": "Linda並列プログラムの開発環境", "authors": [{"name": "木村,康則", "affiliation": "富士通研究所"}, {"name": "川島,康弘", "affiliation": "富士通SSL"}, {"name": "佐藤,英樹", "affiliation": "富士通SSL"}, {"name": "細井,聡", "affiliation": "富士通研究所"}], "index_original": "33-18", "filename": "WPRO1992018.pdf"}
-{"type": "symposium", "index": "34", "year": "1993", "starting_date": "1993-01-12", "ending_date": "1993-01-14", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "34", "year": "1993", "first_date": "1993-01-12", "last_date": "1993-01-14", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "今更, しかし今こそ, きれいな電子メール環境を目指して", "authors": [{"name": "高橋,俊成", "affiliation": "東芝"}], "index_original": "34-1", "filename": "WPRO1993001.pdf"}
 {"type": "presentation", "subject": "時系列データのカオス的性質解析ツール", "authors": [{"name": "田仲,広明", "affiliation": "アクセス"}, {"name": "斎藤,靖", "affiliation": "アクセス"}, {"name": "鎌田,富久", "affiliation": "アクセス"}], "index_original": "34-2", "filename": "WPRO1993002.pdf"}
 {"type": "presentation", "subject": "発想支援手書き環境の硬い技術と軟らかい技術", "authors": [{"name": "中川,正樹", "affiliation": "東京農工大学"}], "index_original": "34-3", "filename": "WPRO1993003.pdf"}
@@ -938,7 +938,7 @@
 {"type": "presentation", "subject": "立体形状の比較法に関する考察", "authors": [{"name": "向井,伸治", "affiliation": "前橋市工業短大"}, {"name": "古川,進", "affiliation": "山梨大学"}, {"name": "小野,誠", "affiliation": "山梨大学"}], "index_original": "34-18", "filename": "WPRO1993018.pdf"}
 {"type": "presentation", "subject": "一般化論理プログラムからみた項書換え系", "authors": [{"name": "繁田,良則", "affiliation": "北海道大学"}], "index_original": "34-19", "filename": "WPRO1993019.pdf"}
 {"type": "presentation", "subject": "適応的アルゴリズム選択法による動的最適化", "authors": [{"name": "須崎,有康", "affiliation": "電子技術総合研究所"}, {"name": "栗田,多喜夫", "affiliation": "電子技術総合研究所"}, {"name": "田沼,均", "affiliation": "電子技術総合研究所"}, {"name": "平野,聡", "affiliation": "電子技術総合研究所"}], "index_original": "34-20", "filename": "WPRO1993020.pdf"}
-{"type": "symposium", "index": "35", "year": "1994", "starting_date": "1994-01-11", "ending_date": "1994-01-13", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "35", "year": "1994", "first_date": "1994-01-11", "last_date": "1994-01-13", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "OSの教育システムについて", "authors": [{"name": "並木,美太郎", "affiliation": "東京農工大学"}, {"name": "早川,栄一", "affiliation": "東京農工大学"}, {"name": "高橋,延匡", "affiliation": "東京農工大学"}], "index_original": "35-1", "filename": "WPRO1994001.pdf"}
 {"type": "presentation", "subject": "IBM-PCの組み立てかた教えます", "authors": [{"name": "粕川,正充", "affiliation": "筑波大学"}], "index_original": "35-2", "filename": "WPRO1994002.pdf"}
 {"type": "presentation", "subject": "計算機実習の実態調査--事象時刻データから何がわかるか?--", "authors": [{"name": "角田,博保", "affiliation": "電気通信大学"}], "index_original": "35-3", "filename": "WPRO1994003.pdf"}
@@ -957,7 +957,7 @@
 {"type": "presentation", "subject": "仮想生物を利用したシミュレーションシステム", "authors": [{"name": "金磯,善博", "affiliation": "インテリジェント・テクノロジー"}, {"name": "平野,一路", "affiliation": "日本IBM"}, {"name": "美馬,のゆり", "affiliation": "東京大学"}, {"name": "広田,光一", "affiliation": "東京大学"}, {"name": "里見,充則", "affiliation": "東京大学"}], "index_original": "35-16", "filename": "WPRO1994016.pdf"}
 {"type": "presentation", "subject": "化学結合論をmetaphorとする情報の代謝モデル", "authors": [{"name": "永山,辰巳", "affiliation": "ソニーコンピュータサイエンス研究所"}], "index_original": "35-17", "filename": "WPRO1994017.pdf"}
 {"type": "presentation", "subject": "有機プログラミング事始め", "authors": [{"name": "中島,秀之", "affiliation": "電子技術総合研究所"}], "index_original": "35-18", "filename": "WPRO1994018.pdf"}
-{"type": "symposium", "index": "36", "year": "1995", "starting_date": "1995-01-10", "ending_date": "1995-01-12", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "36", "year": "1995", "first_date": "1995-01-10", "last_date": "1995-01-12", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 0}
 {"type": "presentation", "subject": "非同期編集向き分散ファイルの試み", "authors": [{"name": "高橋,俊成", "affiliation": "東芝"}, {"name": "新保,淳", "affiliation": "東芝"}, {"name": "室田,真男", "affiliation": "東芝"}], "index_original": "36-1", "filename": "WPRO1995001.pdf"}
 {"type": "presentation", "subject": "ペンインタフェースを用いた分散KJ法システム", "authors": [{"name": "中島,一彰", "affiliation": "東京農工大学"}, {"name": "早川,栄一", "affiliation": "東京農工大学"}, {"name": "並木,美太郎", "affiliation": "東京農工大学"}, {"name": "高橋,延匡", "affiliation": "東京農工大学"}], "index_original": "36-2", "filename": "WPRO1995002.pdf"}
 {"type": "presentation", "subject": "オブジェクト駆動型リアルタイムシステムの構築と解析", "authors": [{"name": "吉田,聡", "affiliation": "東海大学"}, {"name": "大原,茂之", "affiliation": "東海大学"}, {"name": "澤田,勉", "affiliation": "エルグ"}], "index_original": "36-3", "filename": "WPRO1995003.pdf"}
@@ -980,7 +980,7 @@
 {"type": "presentation", "subject": "日本語文章作成環境の研究", "authors": [{"name": "天野,純一", "affiliation": "東京農工大学"}, {"name": "伊藤,聡", "affiliation": "東京農工大学"}, {"name": "丸山,芳男", "affiliation": "東京農工大学"}, {"name": "雀ヶ野,史子", "affiliation": "東京農工大学"}, {"name": "早川,栄一", "affiliation": "東京農工大学"}, {"name": "並木,美太郎", "affiliation": "東京農工大学"}, {"name": "高橋,延匡", "affiliation": "東京農工大学"}], "index_original": "36-20", "filename": "WPRO1995020.pdf"}
 {"type": "presentation", "subject": "システム構成を容易に変更できるOS OS/omicron V4", "authors": [{"name": "早川,栄一", "affiliation": "東京農工大学"}, {"name": "森永,智之", "affiliation": "東京農工大学"}, {"name": "加藤,泰志", "affiliation": "東京農工大学"}, {"name": "並木,美太郎", "affiliation": "東京農工大学"}, {"name": "高橋,延匡", "affiliation": "東京農工大学"}], "index_original": "36-21", "filename": "WPRO1995021.pdf"}
 {"type": "presentation", "subject": "文書創作活動を支援する手書き計算機環境の一つの試み", "authors": [{"name": "加藤,直樹", "affiliation": "東京農工大学"}, {"name": "中川,正樹", "affiliation": "東京農工大学"}], "index_original": "36-22", "filename": "WPRO1995022.pdf"}
-{"type": "symposium", "index": "37", "year": "1996", "starting_date": "1996-01-09", "ending_date": "1996-01-11", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "37", "year": "1996", "first_date": "1996-01-09", "last_date": "1996-01-11", "venue": "箱根ホテル小涌園", "book_type": "報告書", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 1}
 {"type": "presentation", "subject": "手書きインタフェースのその後とこれから", "authors": [{"name": "中川,正樹", "affiliation": "東京農工大学"}], "index_original": "37-1", "filename": "WPRO1996001.pdf"}
 {"type": "presentation", "subject": "なめらかなユーザインタフェース", "authors": [{"name": "増井,俊之", "affiliation": "シャープ"}, {"name": "水口,充", "affiliation": "シャープ"}, {"name": "George Borden", "affiliation": "シャープ"}, {"name": "柏木,宏一", "affiliation": "シャープ"}], "index_original": "37-2", "filename": "WPRO1996002.pdf"}
 {"type": "presentation", "subject": "双方向CATVとオンライン教材を用いた遠隔教育の試み", "authors": [{"name": "安村,通晃", "affiliation": "慶應義塾大学"}, {"name": "佐藤,宏之", "affiliation": "慶應義塾大学"}], "index_original": "37-3", "filename": "WPRO1996003.pdf"}
@@ -1008,7 +1008,7 @@
 {"type": "presentation", "subject": "BNFの学習を支援するFull BASIC言語処理系の開発", "authors": [{"name": "橋本,裕", "affiliation": "東京農工大学"}, {"name": "早川,栄一", "affiliation": "東京農工大学"}, {"name": "並木,美太郎", "affiliation": "東京農工大学"}, {"name": "高橋,延匡", "affiliation": "東京農工大学"}], "index_original": "37-25", "filename": "WPRO1996025.pdf"}
 {"type": "presentation", "subject": "ペンウィンドウシステム \"未\" におけるユーザインタフェースの評価環境の実現", "authors": [{"name": "二村,尚", "affiliation": "東京農工大学"}, {"name": "中島,一彰", "affiliation": "東京農工大学"}, {"name": "早川,栄一", "affiliation": "東京農工大学"}, {"name": "並木,美太郎", "affiliation": "東京農工大学"}, {"name": "高橋,延匡", "affiliation": "東京農工大学"}], "index_original": "37-26", "filename": "WPRO1996026.pdf"}
 {"type": "presentation", "subject": "OS/omicron V4における浮動小数点演算エミュレータの実装", "authors": [{"name": "山本,康弘", "affiliation": "東京農工大学"}, {"name": "早川,栄一", "affiliation": "東京農工大学"}, {"name": "並木,美太郎", "affiliation": "東京農工大学"}, {"name": "高橋,延匡", "affiliation": "東京農工大学"}], "index_original": "37-27", "filename": "WPRO1996027.pdf"}
-{"type": "symposium", "index": "38", "year": "1997", "starting_date": "1997-01-08", "ending_date": "1997-01-10", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "38", "year": "1997", "first_date": "1997-01-08", "last_date": "1997-01-10", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 1}
 {"type": "presentation", "subject": "知的制御プログラムの数理的基礎について", "authors": [{"name": "五十嵐,滋", "affiliation": "筑波大学"}, {"name": "水谷,哲也", "affiliation": "筑波大学"}, {"name": "塩,雅之", "affiliation": "筑波大学"}, {"name": "白銀,哲也", "affiliation": "筑波大学"}, {"name": "冨田,康治", "affiliation": "機械技術研究所"}], "index_original": "38-1", "filename": "WPRO1997001.pdf"}
 {"type": "presentation", "subject": "線形論理上の帰納推論", "authors": [{"name": "山口,文彦", "affiliation": "慶應義塾大学"}], "index_original": "38-2", "filename": "WPRO1997002.pdf"}
 {"type": "presentation", "subject": "プログラムの類似性判定とクラスタリング", "authors": [{"name": "寺田,実", "affiliation": "東京大学"}], "index_original": "38-3", "filename": "WPRO1997003.pdf"}
@@ -1030,7 +1030,7 @@
 {"type": "presentation", "subject": "確率的探索手法と記号処理", "authors": [{"name": "甲元,洋", "affiliation": "日立製作所"}], "index_original": "38-19", "filename": "WPRO1997019.pdf"}
 {"type": "presentation", "subject": "OS/omicron V4におけるJava仮想マシンの設計と実現", "authors": [{"name": "山本,康弘", "affiliation": "東京農工大学"}], "index_original": "38-20", "filename": "WPRO1997020.pdf"}
 {"type": "presentation", "subject": "OS/omicron 第4版におけるデバイス管理とウィンドウシステムの実現", "authors": [{"name": "佐藤,元信", "affiliation": "東京農工大学"}], "index_original": "38-21", "filename": "WPRO1997021.pdf"}
-{"type": "symposium", "index": "39", "year": "1998", "starting_date": "1998-01-07", "ending_date": "1998-01-09", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "39", "year": "1998", "first_date": "1998-01-07", "last_date": "1998-01-09", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 2}
 {"type": "presentation", "subject": "コンピュータによる建築構造設計支援のあり方について", "authors": [{"name": "稲田,達夫", "affiliation": "三菱地所"}], "index_original": "39-1", "filename": "WPRO1998001.pdf"}
 {"type": "presentation", "subject": "データ依存関係の表現を明確にするプログラミング法", "authors": [{"name": "大場,克彦", "affiliation": "京都医療技術短大"}, {"name": "貴島,寿郎", "affiliation": "豊橋技術科学大学"}], "index_original": "39-2", "filename": "WPRO1998002.pdf"}
 {"type": "presentation", "subject": "DNAコンピュータ:その現状と可能性", "authors": [{"name": "榊原,康文", "affiliation": "東京電機大学"}, {"name": "萩谷,昌己", "affiliation": "東京大学"}, {"name": "横森,貴", "affiliation": "電気通信大学"}], "index_original": "39-3", "filename": "WPRO1998003.pdf"}
@@ -1052,7 +1052,7 @@
 {"type": "presentation", "subject": "「楽しさ」を付加した教育支援システムの設計と試作", "authors": [{"name": "坂東,宏和", "affiliation": "東京農工大学"}, {"name": "澤田,伸一", "affiliation": "東京農工大学"}, {"name": "中川,正樹", "affiliation": "東京農工大学"}], "index_original": "39-19", "filename": "WPRO1998019.pdf"}
 {"type": "presentation", "subject": "コンピュータミュージックを利用した情報処理教育", "authors": [{"name": "馬場,伊美子", "affiliation": "七尾短期大学"}], "index_original": "39-20", "filename": "WPRO1998020.pdf"}
 {"type": "presentation", "subject": "出現頻度の変動を利用したキーワード抽出アルゴリズムの索引生成への応用", "authors": [{"name": "白倉,悟子", "affiliation": "津田塾大学"}, {"name": "小川,貴英", "affiliation": "津田塾大学"}, {"name": "梅村,恭司", "affiliation": "豊橋技術科学大学"}], "index_original": "39-21", "filename": "WPRO1998021.pdf"}
-{"type": "symposium", "index": "40", "year": "1999", "starting_date": "1999-01-12", "ending_date": "1999-01-14", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "40", "year": "1999", "first_date": "1999-01-12", "last_date": "1999-01-14", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 2}
 {"type": "presentation", "subject": "図形定数を扱うためのプリプロセッサの実装", "authors": [{"name": "内田,淳", "affiliation": "豊橋技術科学大学"}, {"name": "梅村,恭司", "affiliation": "豊橋技術科学大学"}], "index_original": "40-1", "filename": "WPRO1999001.pdf"}
 {"type": "presentation", "subject": "日本語プログラム言語の設計", "authors": [{"name": "今城,哲二", "affiliation": "日立製作所"}], "index_original": "40-2", "filename": "WPRO1999002.pdf"}
 {"type": "presentation", "subject": "実世界指向プログラミング", "authors": [{"name": "増井,俊之", "affiliation": "ソニーコンピュータサイエンス研究所"}], "index_original": "40-3", "filename": "WPRO1999003.pdf"}
@@ -1075,7 +1075,7 @@
 {"type": "presentation", "subject": "ユーザの視点にたったソフトウエアデザインの研究", "authors": [{"name": "楠,房子", "affiliation": "多摩美術大学"}, {"name": "吉橋,昭夫", "affiliation": "多摩美術大学"}, {"name": "上田,絵里", "affiliation": "多摩美術大学"}, {"name": "坂田,純一郎", "affiliation": "多摩美術大学"}, {"name": "澤野,鯛子", "affiliation": "多摩美術大学"}], "index_original": "40-20", "filename": "WPRO1999020.pdf"}
 {"type": "presentation", "subject": "方程式を使用しないシミュレーション・プログラミング", "authors": [{"name": "豊高,宏典", "affiliation": "芝浦工業大学"}, {"name": "米澤,彰二", "affiliation": "芝浦工業大学"}, {"name": "武田,邦彦", "affiliation": "芝浦工業大学"}, {"name": "土屋,敏明", "affiliation": "計算流体力学研究所"}], "index_original": "40-21", "filename": "WPRO1999021.pdf"}
 {"type": "presentation", "subject": "自然現象を連続化しないシミュレーション・プログラミング", "authors": [{"name": "米澤,彰二", "affiliation": "芝浦工業大学"}, {"name": "武田,邦彦", "affiliation": "芝浦工業大学"}, {"name": "土屋,敏明", "affiliation": "計算流体力学研究所"}], "index_original": "40-22", "filename": "WPRO1999022.pdf"}
-{"type": "symposium", "index": "41", "year": "2000", "starting_date": "2000-01-11", "ending_date": "2000-01-13", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "41", "year": "2000", "first_date": "2000-01-11", "last_date": "2000-01-13", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 2}
 {"type": "presentation", "subject": "回収率に基づきヒープサイズを動的に変更する世代GC方式", "authors": [{"name": "吉川,隆英", "affiliation": "東京大学"}, {"name": "近山,隆", "affiliation": "東京大学"}], "index_original": "41-1", "filename": "WPRO2000001.pdf"}
 {"type": "presentation", "subject": "検証系を用いたアルゴリズムの発見", "authors": [{"name": "萩谷,昌己", "affiliation": "東京大学"}], "index_original": "41-2", "filename": "WPRO2000002.pdf"}
 {"type": "presentation", "subject": "PSYCHE：楽曲分析とその応用を中心として", "authors": [{"name": "劉,剣利", "affiliation": "筑波大学"}, {"name": "小池,宏幸", "affiliation": "筑波大学"}, {"name": "水谷,哲也", "affiliation": "筑波大学"}, {"name": "塩,雅之", "affiliation": "筑波大学"}, {"name": "平賀,瑠美", "affiliation": "筑波技術短大"}, {"name": "五十嵐,滋", "affiliation": "筑波技術短大"}], "index_original": "41-3", "filename": "WPRO2000003.pdf"}
@@ -1096,7 +1096,7 @@
 {"type": "presentation", "subject": "並列組み合わせ最適化ライブラリPopkern", "authors": [{"name": "横山,大作", "affiliation": "東京大学"}, {"name": "近山,隆", "affiliation": "東京大学"}], "index_original": "41-18", "filename": "WPRO2000018.pdf"}
 {"type": "presentation", "subject": "プログラム内部動作の可視化の試み", "authors": [{"name": "鈴木,透", "affiliation": "東京農工大学"}, {"name": "斎藤,隆文", "affiliation": "東京農工大学"}], "index_original": "41-19", "filename": "WPRO2000019.pdf"}
 {"type": "presentation", "subject": "相互作用の促進を目指したグループ学習支援システム", "authors": [{"name": "楠,房子", "affiliation": "多摩美術大学"}, {"name": "杉本,雅則", "affiliation": "東京大学"}, {"name": "橋爪,宏達", "affiliation": "NACSIS"}], "index_original": "41-20", "filename": "WPRO2000020.pdf"}
-{"type": "symposium", "index": "42", "year": "2001", "starting_date": "2001-01-09", "ending_date": "2001-01-11", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "42", "year": "2001", "first_date": "2001-01-09", "last_date": "2001-01-11", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 2}
 {"type": "presentation", "subject": "プロジェクト406", "authors": [{"name": "中川,圭介", "affiliation": "無"}], "index_original": "42-1", "filename": "WPRO2001001.pdf"}
 {"type": "presentation", "subject": "学校教育用オブジェクト指向言語「Dolittle」の提案", "authors": [{"name": "兼宗,進", "affiliation": "筑波大学"}, {"name": "久野,靖", "affiliation": "筑波大学"}], "index_original": "42-2", "filename": "WPRO2001002.pdf"}
 {"type": "presentation", "subject": "振り仮名を振ること", "authors": [{"name": "橋爪,宏達", "affiliation": "国立情報学研"}, {"name": "杉本,雅則", "affiliation": "東京大学"}], "index_original": "42-3", "filename": "WPRO2001003.pdf"}
@@ -1119,7 +1119,7 @@
 {"type": "presentation", "subject": "PSYCHE:協調演奏システムを中心として", "authors": [{"name": "船田,宏聡", "affiliation": "筑波大学"}, {"name": "永田,恵典", "affiliation": "筑波大学"}, {"name": "酒井,祐樹", "affiliation": "筑波大学"}, {"name": "五十嵐,滋", "affiliation": "筑波大学"}, {"name": "水谷,哲也", "affiliation": "筑波大学"}], "index_original": "42-20", "filename": "WPRO2001020.pdf"}
 {"type": "presentation", "subject": "ある新種の算術生命体−An unusual arithgraphicial life−", "authors": [{"name": "佐藤,進也", "affiliation": "NTT"}, {"name": "天海,良治", "affiliation": "NTT"}, {"name": "竹内,郁雄", "affiliation": "電気通信大学"}], "index_original": "42-21", "filename": "WPRO2001021.pdf"}
 {"type": "presentation", "subject": "ボードシステムにおけるコミュニケーション支援", "authors": [{"name": "楠,房子", "affiliation": "多摩美術大学"}, {"name": "杉本,雅則", "affiliation": "東京大学"}, {"name": "橋爪,宏達", "affiliation": "国立情報学研"}], "index_original": "42-22", "filename": "WPRO2001022.pdf"}
-{"type": "symposium", "index": "43", "year": "2002", "starting_date": "2002-01-09", "ending_date": "2002-01-11", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "43", "year": "2002", "first_date": "2002-01-09", "last_date": "2002-01-11", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 2}
 {"type": "presentation", "subject": "コーパスの全部分文字列に対する統計量の計算: 辞書なしの情報検索に向けて", "authors": [{"name": "真田,亜紀子", "affiliation": "豊橋技術科学大学"}, {"name": "梅村,恭司", "affiliation": "豊橋技術科学大学"}], "index_original": "43-1", "filename": "WPRO2002001.pdf"}
 {"type": "presentation", "subject": "感性を含むメッセージ生成支援システム", "authors": [{"name": "砂原,秀樹", "affiliation": "奈良先端科学技術大学院大学"}, {"name": "斉藤,圭子", "affiliation": "津田塾大学"}, {"name": "椎崎,真世", "affiliation": "津田塾大学"}], "index_original": "43-2", "filename": "WPRO2002002.pdf"}
 {"type": "presentation", "subject": "メイルにおける話題スレッドの要約への試み--あなたはメイルの話題の流れを把握できていますか?-", "authors": [{"name": "伊知地,宏", "affiliation": "ラムダ数学教育研究所"}, {"name": "倉部,淳", "affiliation": "インタービジョン・レーザーフィッシュ"}], "index_original": "43-3", "filename": "WPRO2002003.pdf"}
@@ -1143,7 +1143,7 @@
 {"type": "presentation", "subject": "楽曲分析システムDAPHNEを用いた演奏創造", "authors": [{"name": "國弘,竜徳", "affiliation": "筑波大学"}, {"name": "高田,聖", "affiliation": "筑波大学"}, {"name": "水谷,哲也", "affiliation": "筑波大学"}], "index_original": "43-21", "filename": "WPRO2002021.pdf"}
 {"type": "presentation", "subject": "Computation Scrapbooks of Emacs Lisp Runtime State", "authors": [{"name": "Richard Potter", "affiliation": "PRESTO"}], "index_original": "43-22", "filename": "WPRO2002022.pdf"}
 {"type": "presentation", "subject": "生産ラインにおける制御用プログラム開発の効率化", "authors": [{"name": "山田,周司", "affiliation": "エスワイシステム"}], "index_original": "43-23", "filename": "WPRO2002023.pdf"}
-{"type": "symposium", "index": "44", "year": "2003", "starting_date": "2003-01-08", "ending_date": "2003-01-10", "venue": "箱根ホテル小涌園"}
+{"type": "symposium", "index": "44", "year": "2003", "first_date": "2003-01-08", "last_date": "2003-01-10", "venue": "箱根ホテル小涌園", "book_type": "報告集", "book_title_separator": "dot", "book_editor": "情報処理学会 プログラミング・シンポジウム委員会", "symbol": 2}
 {"type": "presentation", "subject": "プログラミング言語教育補助システム PLESS", "authors": [{"name": "高岡,詠子", "affiliation": "千歳科学技術大学"}, {"name": "仙北谷,祐輔", "affiliation": "千歳科学技術大学"}, {"name": "小林,宏章", "affiliation": "千歳科学技術大学"}, {"name": "鈴木,信吾", "affiliation": "千歳科学技術大学"}], "index_original": "44-1", "filename": "WPRO2003001.pdf"}
 {"type": "presentation", "subject": "教育用オブジェクト指向言語「ドリトル」を活用した学校教育", "authors": [{"name": "兼宗,進", "affiliation": "筑波大学"}, {"name": "中谷,多哉子", "affiliation": "エス・ラグーン"}, {"name": "御手洗,理英", "affiliation": "アーマット"}, {"name": "福井,眞吾", "affiliation": "筑波大学"}, {"name": "久野,靖", "affiliation": "筑波大学"}], "index_original": "44-2", "filename": "WPRO2003002.pdf"}
 {"type": "presentation", "subject": "高品質な遠隔授業/会議システムにおける問題点と使い勝手について", "authors": [{"name": "中野,瞳", "affiliation": "九州芸術工科大学"}, {"name": "堀良,彰", "affiliation": "九州芸術工科大学"}, {"name": "河原,一彦", "affiliation": "九州芸術工科大学"}, {"name": "平山,善一", "affiliation": "九州芸術工科大学"}, {"name": "藤村,直美", "affiliation": "九州芸術工科大学"}], "index_original": "44-3", "filename": "WPRO2003003.pdf"}

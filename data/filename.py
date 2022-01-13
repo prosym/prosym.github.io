@@ -8,8 +8,8 @@ INDEX_HYPHEN = re.compile("([0-9]+)\-([0-9]+)\.?")
 f = None
 year = 0
 session = ''
-starting_date = ''
-ending_date = ''
+first_date = ''
+last_date = ''
 
 #f = open('out.jsonl', 'w')
 f = sys.stdout
@@ -22,12 +22,12 @@ for newline in iter(sys.stdin.readline, ""):
         session = ''
         year = int(e['year'])
         symposium = e['index']
-        if 'starting_date' in e:
-            starting_date = e['starting_date']
+        if 'first_date' in e:
+            first_date = e['first_date']
         else:
-            starting_date = ''
-        if 'ending_date' in e:
-            ending_date = e['ending_date']
+            first_date = ''
+        if 'last_date' in e:
+            last_date = e['last_date']
         else:
             ening_date = ''
         print(line, file=f)

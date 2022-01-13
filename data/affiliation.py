@@ -8,8 +8,8 @@ INDEX_HYPHEN = re.compile("([0-9]+)\-([0-9]+)\.?")
 f = None
 year = 0
 session = ''
-starting_date = ''
-ending_date = ''
+first_date = ''
+last_date = ''
 
 #f = open('out.jsonl', 'w')
 f = sys.stdout
