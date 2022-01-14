@@ -34,6 +34,12 @@ exclude:
   - "data/*.py"
   - vendor/
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      license: "prosym"
+
 # collections:
 #   posts:
 #     output: true

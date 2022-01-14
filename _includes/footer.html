@@ -1,0 +1,8 @@
+<footer>{% if page.license %}{% if page.license == "prosym" %}
+<p class="license">Copyright &copy; {% if page.date %}{{ page.date | date: "%Y" }}{% else %}{{ site.time | date: "%Y" }}{% endif %} Programming Symposium, Information Processing Society of Japan. All rights reserved.</p>{% endif %}{% endif %}
+<nav id="bottom-navigation" aria-label="Bottom navigation">
+<ul>
+<li><a href="{{ "/" | relative_url }}">プログラミング・シンポジウム</a></li>
+</ul>
+</nav>
+</footer>
