@@ -117,7 +117,13 @@ main > article > section#article-body {
 }
 
 main h2 {
-    font-size: larger;
+    margin: 0.8rem 0 0.8rem 0;
+    padding: 0 0 2px 4px;
+    border-left: solid 8px #999999;
+    border-bottom: dashed 1px #999999;
+    color: #333333;
+    font-size: 1.1rem;
+    font-weight: bold;
 }
 
 footer {
