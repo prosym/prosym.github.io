@@ -51,8 +51,9 @@ header > nav.hierarchy > ul > li:first-child {
     list-style: none;
 }
 
-/* div#symbol-title は <header></header> 内にも <main><article></article></main> 内にも両方来る可能性がある。 */
-div#symbol-title {
+/* div#heading-title-line は <header></header> 内にも <main><article></article></main> 内にも両方来る可能性がある。 */
+div#heading-title-line {
+    display: flex;
     margin: 0;
     padding: 1rem 0.5rem 1rem 0.5rem;
     top: 0;
@@ -61,7 +62,7 @@ div#symbol-title {
     border-bottom: solid 1px #ccddcc;
 }
 
-div#symbol-title img#prosym-symbol {
+div#heading-title-line > div#symbol-title img#prosym-symbol {
     margin: 0;
     padding: 0;
     top: 0;
@@ -70,7 +71,7 @@ div#symbol-title img#prosym-symbol {
     vertical-align: middle;
 }
 
-div#symbol-title > h1 {
+div#heading-title-line > div#symbol-title > h1 {
     display: inline-block;
     margin: 0 0 0 8px;
     padding: 0;
@@ -79,12 +80,12 @@ div#symbol-title > h1 {
     font-size: 1.8rem;
 }
 
-div#symbol-title > h1 a {
+div#heading-title-line > div#symbol-title > h1 a {
     color: #336699;
     text-decoration: none;
 }
 
-div#symbol-title > h1 a:hover, a:active, a:focus {
+div#heading-title-line > div#symbol-title > h1 a:hover, a:active, a:focus {
     color: #225588;
     text-decoration: underline;
 }
@@ -124,6 +125,37 @@ main h2 {
     color: #333333;
     font-size: 1.1rem;
     font-weight: bold;
+}
+
+main ul.articles li.article-year {
+    margin: 1.5rem 0 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+main ul.articles li.article-year:first-child {
+    margin: 0;
+}
+
+main ul.articles li.article-year ul.articles-per-year li.article {
+    margin-top: 0.25rem;
+}
+
+main ul.articles li.feed {
+    margin: 1.5rem 0 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+main ul.articles li.feed a:before {
+    display: inline;
+    content: "";
+    margin: 0 4px 0 0;
+    padding: 0 1rem 0 0;
+    background-image: url("/assets/images/feed-icon.svg");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
 }
 
 footer {

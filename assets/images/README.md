@@ -1,6 +1,14 @@
 プログラミング・シンポジウム関連画像ファイル
 =============================================
 
+フィードアイコン: `feed-icon.svg`
+----------------------------------
+
+[Feed Icons](http://www.feedicons.com/) より。
+
+> The feed icon is freely available for general use in connection with web feeds using open web syndication formats, without the need to enter into a trademark license agreement or similar legal arrangement.
+> [Feed Icon Guidelines](http://www.feedicons.com/guidelines/)
+
 シンボルマーク (ロゴ)
 ----------------------
 

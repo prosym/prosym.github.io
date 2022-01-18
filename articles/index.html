@@ -1,0 +1,21 @@
+---
+layout: page
+title: 記事
+feed: "/articles/feed.xml"
+feed_title: "記事の Atom Feed"
+---
+<section id="about">
+<p>プログラミング・シンポジウムの情報発信・アウトリーチの一環として、各種の記事を載せられるスペースを作りました。</p>
+</section>
+
+<section id="articles">
+<h2 class="feed">記事</h2>
+<ul class="articles">{% assign last_year = "0000" %}{% for post in site.posts %}{% assign year = post.date | date: '%Y' %}{% if last_year != year %}{% if last_year == "0000" %}
+<li class="article-year">{{ year }}年<ul class="articles-per-year">
+{% else %}</ul></li>
+<li class="article-year">{{ year }}年<ul class="articles-per-year">
+{% endif %}{% assign last_year = year %}{% endif %}<li class="article"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="collation">({% if post.author_name %}{{ post.author_name }}; {% endif %}{{ post.date | date: "%Y" }}年{{ post.date | date: "%-m" }}月{{ post.date | date: "%-d" }}日)</span></li>
+{% endfor %}{% if site.posts.size > 0 %}</li></ul>{% endif %}
+<li class="feed"><a href="{{ "/articles/feed.xml" | relative_url }}">記事の Atom Feed</a></li>
+</ul>
+</section>
