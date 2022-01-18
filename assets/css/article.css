@@ -2,3 +2,30 @@
  * プログラミング・シンポジウム CSS [記事用]
  */
 @import url("./prosym.css");
+
+div#heading-title-line > div#article-bibliography {
+    margin: auto 0 0 auto;
+    padding: 0;
+    top: 0;
+}
+
+div#heading-title-line > div#article-bibliography ul {
+    margin: 0;
+    padding: 0;
+}
+
+div#heading-title-line > div#article-bibliography ul li {
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    padding: 0 24px !important;
+}
+
+div#heading-title-line > div#article-bibliography ul li a {
+    color: #666666;
+    text-decoration: none;
+}
+
+div#heading-title-line > div#article-bibliography ul li a:hover {
+    text-decoration: underline;
+}
