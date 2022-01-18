@@ -32,7 +32,7 @@ header#home-header div#home-symbol-title h1#home-title {
 
 body#home main {
     margin: 0;
-    padding: 1.5em 2em 1.5em 2em;
+    padding: 1.5rem 2rem 1.5rem 2rem;
 }
 
 body#home main section h2 {
@@ -44,7 +44,7 @@ body#home main section#scheduled-events ul.scheduled-event-items {
 }
 
 body#home main section#scheduled-events ul.scheduled-event-items li.scheduled-event-item {
-    margin: 0 0 1em 0;
+    margin: 0 0 1rem 0;
     font-size: larger;
     list-style: none;
 }
@@ -54,14 +54,14 @@ body#home main section#scheduled-events ul.scheduled-event-items li.scheduled-ev
         display: flex;
         flex-flow: row nowrap;
         padding: 0;
-        margin: 0 2em 0 2em;
+        margin: 0 2rem 0 2rem;
     }
 
     body#home main section#scheduled-events ul.scheduled-event-items li.scheduled-event-item {
         min-width: 30%;
         max-width: 32%;
         box-sizing: border-box;
-        margin: 0 0.5em 0.5em 0.5em;
+        margin: 0 0.5rem 0.5rem 0.5rem;
         padding: 8px;
         border: solid 1px #aaddaa;
     }

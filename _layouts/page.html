@@ -18,9 +18,27 @@
 <link rel="stylesheet" href="{{ "/assets/css/page.css" | relative_url }}" type="text/css" />
 </head>
 <body id="page">
-{% include header_page.html %}
+<header>
+<nav id="top-navigation" class="hierarchy" aria-label="Top navigation">
+<ul>
+<li><a href="{{ "/" | relative_url }}">プログラミング・シンポジウム</a></li>{% for ancestor in page.ancestors %}{% assign matched = site.pages | where: "url", ancestor %}
+<li><a href="{{ ancestor | relative_url }}">{{ matched[0].title }}</a></li>{% endfor %}
+</ul>
+</nav>
+</header>
 <main>
+<article>{% comment %}
+シンポジウム各回以外の「固定ページ」や「記事」では、意図的に page.title の <h1> やシンボルマークを <article> 下に置いています。
+逆に、シンポジウム各回のページでは、意図的に page.title の <h1> やシンボルマークを <header> 下に置いています。
+これは、それぞれのページにおけるタイトル部の意味合いを考えた結果です。
+{% endcomment %}
+<div id="symbol-title">
+<a href="{{ "/" | relative_url }}"><img id="prosym-symbol" src="{{ "/assets/images/prosym2_white.svg" | relative_url }}" width="114" height="96" alt="[PS]"/></a><h1 id="title"><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
+</div>
+<section id="article-body">
 {{ content }}
+</section>
+</article>
 </main>
 {% include footer.html %}
 </body>

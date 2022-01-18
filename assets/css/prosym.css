@@ -1,13 +1,95 @@
 body {
-    background-color: #ccffcc;
     margin: 0;
     padding: 0;
     top: 0;
+    background-color: #ccffcc;
 }
 
 header {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    overflow: hidden;
     background-color: #eeffee;
+}
+
+header a {
+    color: #666666;
+    text-decoration: none;
+}
+
+header a:hover, header a:active, header a:focus {
+    text-decoration: underline;
+}
+
+header > nav.hierarchy {
+    margin: 4px 4px 4px 8px;
+    padding: 0;
+    top: 0;
     border-bottom: solid 1px #cccccc;
+    color: #666666;
+    font-size: 0.9rem;
+}
+
+header > nav.hierarchy > ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: "\00BB";  /* » &raquo; */
+}
+
+header > nav.hierarchy > ul > li {
+    margin: auto 0 auto 1rem;
+    padding: 0 0 0 0.5rem;
+    white-space: nowrap;
+}
+
+header > nav.hierarchy > ul > li:first-child {
+    margin: auto 0 auto 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* div#symbol-title は <header></header> 内にも <main><article></article></main> 内にも両方来る可能性がある。 */
+div#symbol-title {
+    margin: 0;
+    padding: 1rem 0.5rem 1rem 0.5rem;
+    top: 0;
+    overflow: hidden;
+    background-color: #eeffee;
+    border-bottom: solid 1px #ccddcc;
+}
+
+div#symbol-title img#prosym-symbol {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    width: 3.8rem;  /* 3.2 * 760 / 640 */
+    height: 3.2rem;
+    vertical-align: middle;
+}
+
+div#symbol-title > h1 {
+    display: inline-block;
+    margin: 0 0 0 8px;
+    padding: 0;
+    top: 0;
+    vertical-align: middle;
+    font-size: 1.8rem;
+}
+
+div#symbol-title > h1 a {
+    color: #336699;
+    text-decoration: none;
+}
+
+div#symbol-title > h1 a:hover, a:active, a:focus {
+    color: #225588;
+    text-decoration: underline;
+}
+
+main {
     margin: 0;
     padding: 0;
     top: 0;
@@ -27,6 +109,15 @@ main a {
 main a:hover, a:active, a:focus {
     color: #003366;
     text-decoration-style: solid;
+}
+
+main > article > section#article-body {
+    margin: 1.5rem 2rem 1.5rem 2rem;
+    padding: 0;
+}
+
+main h2 {
+    font-size: larger;
 }
 
 footer {
