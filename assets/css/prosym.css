@@ -18,7 +18,7 @@ header a {
     text-decoration: none;
 }
 
-header a:hover, header a:active, header a:focus {
+header a:hover, a:active, a:focus {
     text-decoration: underline;
 }
 
@@ -51,9 +51,8 @@ header > nav.hierarchy > ul > li:first-child {
     list-style: none;
 }
 
-/* div#heading-title-line は <header></header> 内にも <main><article></article></main> 内にも両方来る可能性がある。 */
-div#heading-title-line {
-    display: flex;
+/* div#heading-lines は <header></header> 内にも <main><article></article></main> 内にも両方来る可能性がある。 */
+div#heading-lines {
     margin: 0;
     padding: 1rem 0.5rem 1rem 0.5rem;
     top: 0;
@@ -62,31 +61,66 @@ div#heading-title-line {
     border-bottom: solid 1px #ccddcc;
 }
 
-div#heading-title-line > div#symbol-title img#prosym-symbol {
-    margin: 0;
+div#heading-lines > div#heading-title-line {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    margin: 0 0 4px 0;
     padding: 0;
     top: 0;
+    overflow: hidden;
+    background-color: #eeffee;
+}
+
+div#heading-lines > div#heading-title-line > div#prosym-symbol img#prosym-symbol {
+    margin: 0 8px 0 0;
+    padding: 0;
     width: 3.8rem;  /* 3.2 * 760 / 640 */
     height: 3.2rem;
     vertical-align: middle;
 }
 
-div#heading-title-line > div#symbol-title > h1 {
-    display: inline-block;
-    margin: 0 0 0 8px;
+div#heading-lines > div#heading-title-line > div#title > h1 {
+    margin: 0;
     padding: 0;
-    top: 0;
-    vertical-align: middle;
     font-size: 1.8rem;
 }
 
-div#heading-title-line > div#symbol-title > h1 a {
+div#heading-lines > div#heading-title-line > div#title > h1 a {
     color: #336699;
     text-decoration: none;
 }
 
-div#heading-title-line > div#symbol-title > h1 a:hover, a:active, a:focus {
+div#heading-lines > div#heading-title-line > div#title > h1 a:hover, a:active, a:focus {
     color: #225588;
+    text-decoration: underline;
+}
+
+div#heading-lines > div#heading-bibliography-line {
+    display: flex;
+    margin: 4px 0 0 0;
+    padding: 0;
+    top: 0;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+}
+
+div#heading-lines > div#heading-bibliography-line > div#article-author {
+    margin: 0 1rem 0 0;
+    padding: 0;
+}
+
+div#heading-lines > div#heading-bibliography-line > div#article-date {
+    margin: 0 1rem 0 1rem;
+    padding: 0;
+}
+
+div#heading-lines > div#heading-bibliography-line > div#article-author a {
+    color: #666666;
+    text-decoration: none;
+}
+
+div#heading-lines > div#heading-bibliography-line > div#article-author a:hover, a:active, a:focus {
     text-decoration: underline;
 }
 
