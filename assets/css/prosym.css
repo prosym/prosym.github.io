@@ -131,6 +131,8 @@ main {
 }
 
 main code.url {
+    overflow-wrap: break-word;
+    word-break: break-all;
     font-family: monospace;
 }
 
