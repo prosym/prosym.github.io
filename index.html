@@ -29,7 +29,7 @@
 <section id="news">
 <h2>最新情報</h2>
 <ul>
-<li><a href="past_reports.html">過去のプログラミング・シンポジウム報告集の利用許諾について</a>を掲示しました。 (2020年12月18日)</li>
+<li><a href="{{ "/articles/2020/12/18/past_reports.html" | relative_url }}">過去のプログラミング・シンポジウム報告集の利用許諾について</a>を掲示しました。 (2020年12月18日)</li>
 <li><code class="url"><a href="http://www.ipsj.or.jp/prosym/">http://www.ipsj.or.jp/prosym/</a></code> から <code class="url"><a href="https://prosym.org/">https://prosym.org/</a></code> に移動しました。 (2020年7月3日)</li>
 </ul>
 </section>
@@ -63,8 +63,8 @@
 
 <section id="articles">
 <h2><a href="articles/">記事</a></h2>
-<ul>
-<li>(まだ記事はありません)
+<ul class="articles">{% for post in site.posts %}
+<li class="article"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="collation">({% if post.author_name %}{{ post.author_name }}; {% endif %}{{ post.date | date: "%Y" }}年{{ post.date | date: "%-m" }}月{{ post.date | date: "%-d" }}日)</span></li>{% endfor %}
 </ul>
 
 </main>
