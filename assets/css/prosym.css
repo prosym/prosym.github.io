@@ -23,8 +23,8 @@ header a:hover, a:active, a:focus {
 }
 
 header > nav.hierarchy {
-    margin: 4px 4px 4px 8px;
-    padding: 0;
+    margin: 0;
+    padding: 2px 4px 2px 8px;
     top: 0;
     border-bottom: solid 1px #cccccc;
     color: #666666;
