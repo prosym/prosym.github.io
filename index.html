@@ -37,13 +37,13 @@
 <section id="scheduled-events">
 <h2>最近のイベント</h2>
 <ul class="scheduled-event-items">
-<li class="scheduled-event-item"><a href="63/">第63回 プログラミング・シンポジウム</a></span><ul>
+<li class="scheduled-event-item"><a href="63/">第63回 プログラミング・シンポジウム</a><ul>
   <li>日程: 2022年1月7日(金) ～ 8日(土)</li>
   <li>会場: オンライン</li>
   <li><a href="63/cfp.html">発表・論文募集のご案内</a><ul>
-    <li><span style="text-decoration: line-through;">締め切りました</span></li></ul></li>
+    <li><span style="text-decoration: line-through;">締め切りました</li></ul></li>
   <li><a href="63/cfa.html">参加募集のご案内</a><ul>
-    <li><span style="text-decoration: line-through;">締め切りました</span></li></ul></li>
+    <li><span style="text-decoration: line-through;">締め切りました</li></ul></li>
   <li><a href="63/program.html">プログラム</a></li></ul></li>
 <li class="scheduled-event-item"><a href="https://wakate.org/2021/08/22/54th-general/">第54回 情報科学若手の会</a></span><ul>
   <li>日程: 2021年9月26日 (日)
@@ -60,12 +60,14 @@
 <li><a href="logo.html">プロシンのロゴマーク</a></li>
 <li><a href="awards/">山内奨励賞・山内業績賞</a></li>
 </ul>
+</section>
 
 <section id="articles">
 <h2><a href="articles/">記事</a></h2>
 <ul class="articles">{% for post in site.posts %}
 <li class="article"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="collation">({% if post.author_name %}{{ post.author_name }}; {% endif %}{{ post.date | date: "%Y" }}年{{ post.date | date: "%-m" }}月{{ post.date | date: "%-d" }}日)</span></li>{% endfor %}
 </ul>
+</section>
 
 </main>
 
