@@ -2,3 +2,39 @@
  * プログラミング・シンポジウム CSS [記事用]
  */
 @import url("./prosym.css");
+
+div#article-body {
+    margin: 0 auto 0 auto;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    max-width: 960px;
+    background-color: #ddffdd;
+    border-left: solid 1px #ccddcc;
+    border-right: solid 1px #ccddcc;
+}
+
+div.footnotes {
+    margin: 0;
+    padding: 0;
+}
+
+div.footnotes::before {
+    display: block;
+    content: "脚注";
+    margin: 1.5rem 0 1.2rem 0;
+    padding: 1.5rem 0 0 0;
+    border-top: dotted 1px #999999;
+    color: #333333;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+div.footnotes ol {
+    margin: 0 0 0 2.5rem;
+    padding: 0;
+}
+
+div.footnotes ol li {
+    margin: 0;
+    padding: 0;
+    line-height: 100%;
+}

@@ -13,6 +13,7 @@
 <meta property="og:site_name" content="プログラミング・シンポジウム"/>
 <meta name="twitter:card" content="summary"/>
 <title>{{ page.title }}</title>
+{% if page.feed %}<link rel="alternate" href="{{ page.feed | relative_url }}" type="application/atom+xml"{% if page.feed_title %} title="{{ page.feed_title }}"{% endif %}/>{% endif %}
 {% if page.canonical_url %}<link rel="canonical" href="{{ page.canonical_url }}">{% else %}<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{% endif %}
 <link rel="icon" href="{{ "/assets/images/prosym2_white_square.svg" | relative_url }}" type="image/svg+xml">
 <link rel="stylesheet" href="{{ "/assets/css/article.css" | relative_url }}" type="text/css" />
@@ -41,9 +42,9 @@
 <div id="article-date">{{ page.date | date: "%Y" }}年{{ page.date | date: "%-m" }}月{{ page.date | date: "%-d" }}日{% if page.update %}&nbsp;({{ page.update | date: "%Y" }}年{{ page.update | date: "%-m" }}月{{ page.update | date: "%-d" }}日更新){% endif %}</div>
 </div>
 </div>
-<section id="article-body">
+<div id="article-body">
 {{ content }}
-</section>
+</div>
 </article>
 </main>
 {% include footer.html %}

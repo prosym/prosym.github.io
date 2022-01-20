@@ -7,14 +7,14 @@
 <meta property="og:title" content="{{ page.title }}"/>
 <meta property="og:type" content="article"/>
 <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}"/>
-<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ "/assets/images/prosym2_white_200x200.png" | relative_url }}"/>
+{% if page.image %}<meta property="og:image" content="{{ page.image }}"/>{% else %}<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ "/assets/images/prosym2_white_200x200.png" | relative_url }}"/>{% endif %}
 {% if page.description %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
 <meta property="og:locale" content="ja_JP"/>
 <meta property="og:site_name" content="プログラミング・シンポジウム"/>
 <meta name="twitter:card" content="summary"/>
 <title>{{ page.title }}</title>
 {% if page.feed %}<link rel="alternate" href="{{ page.feed | relative_url }}" type="application/atom+xml"{% if page.feed_title %} title="{{ page.feed_title }}"{% endif %}/>{% endif %}
-<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+{% if page.canonical_url %}<link rel="canonical" href="{{ page.canonical_url }}">{% else %}<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{% endif %}
 <link rel="icon" href="{{ "/assets/images/prosym2_white_square.svg" | relative_url }}" type="image/svg+xml">
 <link rel="stylesheet" href="{{ "/assets/css/page.css" | relative_url }}" type="text/css" />
 </head>
@@ -38,9 +38,9 @@
 <div id="prosym-symbol"><a href="{{ "/" | relative_url }}"><img id="prosym-symbol" src="{{ "/assets/images/prosym2_white.svg" | relative_url }}" width="114" height="96" alt="[PS]"/></a></div><div id="title"><h1 id="title"><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1></div>
 </div>
 </div>
-<section id="article-body">
+<div id="page-body">
 {{ content }}
-</section>
+</div>
 </article>
 </main>
 {% include footer.html %}

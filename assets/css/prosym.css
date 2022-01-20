@@ -148,7 +148,7 @@ main a:hover, a:active, a:focus {
     text-decoration-style: solid;
 }
 
-main > article > section#article-body {
+main > article > div#page-body {
     margin: 1.5rem 2rem 1.5rem 2rem;
     padding: 0;
 }
