@@ -7,7 +7,6 @@ author_url: "https://prosym.org/"
 canonical_url: "https://www.ipsj.or.jp/topics/Past_reports.html"
 license: "prosym"
 update: 2022-01-19
-ancestors: ["/articles/"]
 ---
 
 このお知らせは，情報処理学会の Web サイトに掲載されております[「過去のプログラミング・シンポジウム報告集の利用許諾について」](https://www.ipsj.or.jp/topics/Past_reports.html)を，広く周知するため <code class="url">prosym.org</code> でも再掲するものです．

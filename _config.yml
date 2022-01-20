@@ -37,6 +37,10 @@ defaults:
       path: ""
     values:
       license: "prosym"
+  - scope:
+      path: "_posts/*"
+    values:
+      ancestors: ["/articles/"]
 
 collections:
   posts:
