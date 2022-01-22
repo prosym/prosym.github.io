@@ -10,6 +10,7 @@ div#article-body {
     background-color: #eeffee;
     border-left: solid 1px #ccddcc;
     border-right: solid 1px #ccddcc;
+    line-height: 1.75;
 }
 
 div.footnotes {
