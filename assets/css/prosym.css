@@ -10,7 +10,7 @@ header {
     padding: 0;
     top: 0;
     overflow: hidden;
-    background-color: #eeffee;
+    background-color: #ddffdd;
 }
 
 header a {
@@ -57,7 +57,7 @@ div#heading-lines {
     padding: 1rem 0.5rem 1rem 0.5rem;
     top: 0;
     overflow: hidden;
-    background-color: #eeffee;
+    background-color: #ddffdd;
     border-bottom: solid 1px #ccddcc;
 }
 
@@ -69,7 +69,6 @@ div#heading-lines > div#heading-title-line {
     padding: 0;
     top: 0;
     overflow: hidden;
-    background-color: #eeffee;
 }
 
 div#heading-lines > div#heading-title-line > div#prosym-symbol img#prosym-symbol {
