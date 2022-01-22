@@ -162,6 +162,15 @@ main h2 {
     font-weight: bold;
 }
 
+main h3 {
+    margin: 0.8rem 0 0.8rem 0;
+    padding: 0 0 0 6px;
+    border-left: solid 4px #99cc99;
+    color: #333333;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
 main ul.articles li.article-year {
     margin: 1.5rem 0 0 0;
     padding: 0;
