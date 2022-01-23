@@ -38,7 +38,7 @@
 <div id="prosym-symbol"><a href="{{ "/" | relative_url }}"><img id="prosym-symbol" src="{{ "/assets/images/prosym2_white.svg" | relative_url }}" width="114" height="96" alt="[PS]"/></a></div><div id="title"><h1 id="title"><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1></div>
 </div>
 <div id="heading-bibliography-line">
-{% if page.author %}<div id="article-author">{% if page.author_url %}<a href="{{ page.author_url }}">{% endif %}{{ page.author }}{% if page.author_url %}</a></div>{% endif %}{% endif %}
+{% if page.author %}<div id="article-author">{% if page.author_url %}<a href="{{ page.author_url }}">{% endif %}{{ page.author }}{% if page.author_url %}</a>{% endif %}</div>{% endif %}
 <div id="article-date">{{ page.date | date: "%Y" }}年{{ page.date | date: "%-m" }}月{{ page.date | date: "%-d" }}日{% if page.update %}&nbsp;({{ page.update | date: "%Y" }}年{{ page.update | date: "%-m" }}月{{ page.update | date: "%-d" }}日更新){% endif %}</div>
 </div>
 </div>
