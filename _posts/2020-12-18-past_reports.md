@@ -6,12 +6,12 @@ author: "情報処理学会 プログラミング・シンポジウム委員会"
 author_url: "https://prosym.org/"
 canonical_url: "https://www.ipsj.or.jp/topics/Past_reports.html"
 license: "prosym"
-update: 2022-01-19
+update: 2022-01-23
 ---
 
-このお知らせは，情報処理学会の Web サイトに掲載されております[「過去のプログラミング・シンポジウム報告集の利用許諾について」](https://www.ipsj.or.jp/topics/Past_reports.html)を，広く周知するため <code class="url">prosym.org</code> でも再掲するものです．
+このお知らせは、情報処理学会の Web サイトに掲載されております「[過去のプログラミング・シンポジウム報告集の利用許諾について](https://www.ipsj.or.jp/topics/Past_reports.html)」を、広く周知するため <code class="url">prosym.org</code> でも再掲するものです。
 
-当初は [<code class="url">https://prosym.org/past_reports.html</code>](https://prosym.org/past_reports.html) に掲示しておりましたが，[「記事」](/articles/)コーナーの設置にともなって移動しました．
+当初は [<code class="url">https://prosym.org/past_reports.html</code>](https://prosym.org/past_reports.html) に掲示しておりましたが、「[記事](/articles/)」コーナーの設置にともなって移動しました．
 
 ----
 
