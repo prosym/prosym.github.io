@@ -38,7 +38,10 @@
 <div id="prosym-symbol"><a href="{{ "/" | relative_url }}"><img id="prosym-symbol" src="{{ "/assets/images/prosym2_white.svg" | relative_url }}" width="114" height="96" alt="[PS]"/></a></div><div id="title"><h1 id="title"><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1></div>
 </div>
 <div id="heading-bibliography-line">
-{% if page.author %}<div id="article-author">{% if page.author_url %}<a href="{{ page.author_url }}">{% endif %}{{ page.author }}{% if page.author_url %}</a>{% endif %}</div>{% endif %}
+{% if page.author %}<div id="article-author">{% assign registered_author = site.people | where: "short_name", page.author | first %}{% if registered_author %}{% assign page_year_integer = page.date | date: "%Y" | plus: 0 %}{% assign page_month_integer = page.date | date: "%-m" | plus: 0 %}{% if page_month_integer >= 1 and page_month_integer <= 3 %}{% assign page_nendo = page_year_integer | minus: 1 %}{% else %}{% assign page_nendo = page_year_integer %}{% endif %}
+{% if registered_author.url %}<a href="{{ registered_author.url }}">{% endif %}{{ registered_author.name }}{% if registered_author.organizer_in contains page_nendo %}&nbsp;({{ page_nendo}}年度幹事){% endif %}{% if registered_author.url %}</a>{% endif %}{% else %}
+{% if page.author_url %}<a href="{{ page.author_url }}">{% endif %}{{ page.author }}{% if page.author_url %}</a>{% endif %}{% endif %}
+</div>{% endif %}
 <div id="article-date">{{ page.date | date: "%Y" }}年{{ page.date | date: "%-m" }}月{{ page.date | date: "%-d" }}日{% if page.update %}&nbsp;({{ page.update | date: "%Y" }}年{{ page.update | date: "%-m" }}月{{ page.update | date: "%-d" }}日更新){% endif %}</div>
 </div>
 </div>

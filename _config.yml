@@ -46,3 +46,6 @@ collections:
   posts:
     output: true
     permalink: /articles/:year/:month/:day/:title:output_ext
+  people:
+    output: true
+    permalink: /people/:title:output_ext
