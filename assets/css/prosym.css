@@ -191,6 +191,34 @@ main ul.articles li.feed {
     list-style: none;
 }
 
+main section.caveat {
+    margin: 0.5rem 1.5rem 0.5rem 1.5rem;
+    padding: 0.5rem;
+    border: dotted 1px #99cc99;
+    font-size: smaller;
+}
+
+main section.caveat > h2 {
+    margin: 0;
+    padding: 0;
+}
+
+main section.caveat > ul {
+    margin: 0 0 0 1.5rem;
+    padding: 0;
+}
+
+main section.caveat > ul > li {
+    margin: 1rem 0 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+main section.caveat > ul > li > ul > li {
+    margin: 0.3rem 0 0 0;
+    padding: 0;
+}
+
 main ul.articles li.feed a:before {
     display: inline;
     content: "";
