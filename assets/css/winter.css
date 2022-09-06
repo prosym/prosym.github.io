@@ -1,0 +1,38 @@
+/*
+ * プログラミング・シンポジウム CSS [(冬の) シンポジウム各回ページ用 - 第64回]
+ *
+ * - この CSS ファイルを不用意に変更すると、過去のページが壊れる可能性があります。
+ */
+@import url("./prosym.css");
+
+body#winter main aside {
+    margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    padding: 8px;
+    color: #555555;
+    border: #888888 1px solid;
+}
+
+body#winter main aside p {
+    margin: 0;
+}
+
+body#winter {
+    line-height: 1.75;
+}
+
+body#winter main section#event dl {
+    margin-left: 1.5em;
+}
+
+body#winter main section#event dl ul {
+    margin: 0;
+}
+
+div#winter-page-body {
+    margin: 0 auto 0 auto;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    max-width: 960px;
+    line-height: 1.75;
+}

@@ -202,6 +202,10 @@ main ul.articles li.feed a:before {
     background-size: contain;
 }
 
+main div.indent {
+    margin-left: 1.5em;
+}
+
 footer {
     margin: 0;
     padding: 1.5rem 3rem 1.5rem 3rem;

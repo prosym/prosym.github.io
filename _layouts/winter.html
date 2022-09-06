@@ -1,0 +1,37 @@
+---
+---
+<!DOCTYPE html>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta property="og:title" content="第{{ page.symposium }}回 プログラミング・シンポジウム"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}"/>
+{% if page.description %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
+{% if page.symbol %}<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ "/assets/images/prosym2_white_200x200.png" | relative_url }}"/>{% endif %}
+<meta property="og:locale" content="ja_JP"/>
+<meta property="og:site_name" content="プログラミング・シンポジウム"/>
+<meta name="twitter:card" content="summary"/>
+<title>第{{ page.symposium }}回 プログラミング・シンポジウム</title>
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+{% if page.symbol %}<link rel="icon" href="{{ "/assets/images/prosym2_white_square.svg" | relative_url }}" type="image/svg+xml">{% endif %}
+<link rel="stylesheet" href="{{ "/assets/css/winter.css" | relative_url }}" type="text/css" />
+</head>
+<body id="winter">
+<header>
+<div id="heading-lines">
+<div id="heading-title-line">
+{% if page.symbol %}<div id="prosym-symbol"><a href="{{ "/" | relative_url }}"><img id="prosym-symbol" src="{{ "/assets/images/prosym2_white.svg" | relative_url }}" width="114" height="96" alt="[PS]"/></a></div>{% endif %}<div id="title"><h1 id="title"><a href="{{ page.symposium | relative_url }}/">第{{ page.symposium }}回 プログラミング・シンポジウム</a></h1></div>
+</div>
+</div>
+</header>
+<main>
+<article>
+<div id="page-body">
+{{ content }}
+</div>
+</article>
+</main>
+{% include footer.html %}
+</body>
+</html>
