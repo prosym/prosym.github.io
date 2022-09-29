@@ -48,7 +48,7 @@ div.quotation-yamauti-ziro-sensei-hito-to-gyouseki {
     border-style: solid;
     border-width: 1px;
     border-color: #ccddcc;
-    padding: 1rem 1em 1rem 1rem;
+    padding: 1rem 1rem 1rem 1rem;
     width: fit-content;
 }
 
@@ -60,7 +60,7 @@ div.quotation-yamauti-ziro-sensei-hito-to-gyouseki h2 {
 }
 
 div.quotation-yamauti-ziro-sensei-hito-to-gyouseki p {
-    text-indent: 1em;
+    text-indent: 1rem;
     white-space: pre;
 }
 
@@ -92,7 +92,7 @@ div.quotation-yamauti-ziro-sensei-hito-to-gyouseki dl.committee {
 div.quotation-yamauti-ziro-sensei-hito-to-gyouseki dl.committee dt {
     display: inline;
     float: left;
-    margin-right: 1em;
+    margin-right: 1rem;
 }
 
 div.quotation-yamauti-ziro-sensei-hito-to-gyouseki dl.committee dd {
