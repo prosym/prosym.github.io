@@ -2,7 +2,7 @@
 layout: "article"
 title: "プログラミング・シンポジウムのはじまり"
 description: "この記事は、プログラミング・シンポジウムの立ち上げから発展まで大きくかかわった山内二郎先生の追悼集として、有志によって 1985 年に発刊された「山内二郎先生 人と業績」第 I 部の第 6 章「情報処理」から「6.2 プログラミング・シンポジウム」を引用して、プログラミング・シンポジウムのはじまりについて紹介します。"
-author: "情報処理学会 プログラミング・シンポジウム委員会"
+author: "プログラミング・シンポジウム委員会"
 author_url: "https://prosym.org/"
 license: "prosym"
 update: 2022-09-30
@@ -35,6 +35,18 @@ div.image-list img.quotation-yamauti-ziro-sensei-hito-to-gyouseki-inside-cover {
     max-width: 100%;
     height: auto;
 }
+
+@media (max-width:600px) {
+    img.quotation-yamauti-ziro-sensei-hito-to-gyouseki-spine {
+        width: auto;
+        height: 142px;
+    }
+
+    img.quotation-yamauti-ziro-sensei-hito-to-gyouseki-inside-cover {
+        width: 252px;
+        height: 142px;
+    }
+}
 </style>
 
 <div class="image-list"><img class="quotation-yamauti-ziro-sensei-hito-to-gyouseki-spine" src="{{ "/assets/images/yamauti_ziro_sensei_hito_to_gyouseki_spine.jpg" | relative_url }}" alt="山内二郎先生 人と業績 背表紙"/><img class="quotation-yamauti-ziro-sensei-hito-to-gyouseki-inside-cover" src="{{ "/assets/images/yamauti_ziro_sensei_hito_to_gyouseki_inside_cover.jpg" | relative_url }}" alt="山内二郎先生 人と業績 中表紙"/></div>
@@ -55,6 +67,12 @@ div.quotation-yamauti-ziro-sensei-hito-to-gyouseki {
     width: fit-content;
 }
 
+@media (max-width:600px) {
+    div.quotation-yamauti-ziro-sensei-hito-to-gyouseki {
+        width: auto;
+    }
+}
+
 div.quotation-yamauti-ziro-sensei-hito-to-gyouseki h2 {
     font-size: 1.2rem;
     border: 0;
@@ -65,6 +83,12 @@ div.quotation-yamauti-ziro-sensei-hito-to-gyouseki h2 {
 div.quotation-yamauti-ziro-sensei-hito-to-gyouseki p {
     text-indent: 1rem;
     white-space: pre;
+}
+
+@media (max-width:600px) {
+    div.quotation-yamauti-ziro-sensei-hito-to-gyouseki p {
+        white-space: normal;
+    }
 }
 
 div.quotation-yamauti-ziro-sensei-hito-to-gyouseki p.unindented {
@@ -103,6 +127,12 @@ div.quotation-yamauti-ziro-sensei-hito-to-gyouseki dl.committee dd {
     padding-left: 1rem;
 }
 
+@media (max-width:600px) {
+    div.quotation-yamauti-ziro-sensei-hito-to-gyouseki dl.committee dd {
+        white-space: normal;
+    }
+}
+
 div.quotation-yamauti-ziro-sensei-hito-to-gyouseki .first-letter-space::first-letter {
     letter-spacing: 1rem;
 }
@@ -123,6 +153,12 @@ div.quotation-yamauti-ziro-sensei-hito-to-gyouseki dl.history dd {
     display: list-item;
     white-space: pre;
     list-style-type: disc;
+}
+
+@media (max-width:600px) {
+    div.quotation-yamauti-ziro-sensei-hito-to-gyouseki dl.history dd {
+        white-space: normal;
+    }
 }
 
 div.quotation-yamauti-ziro-sensei-hito-to-gyouseki blockquote {
