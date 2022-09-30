@@ -5,6 +5,7 @@ description: "この記事は、プログラミング・シンポジウムの立
 author: "情報処理学会 プログラミング・シンポジウム委員会"
 author_url: "https://prosym.org/"
 license: "prosym"
+update: 2022-09-30
 ---
 
 この記事は、プログラミング・シンポジウムの立ち上げから発展まで大きくかかわった[山内二郎](https://museum.ipsj.or.jp/pioneer/yamauc.html)先生の追悼集として、有志によって 1985 年に発刊された「山内二郎先生 人と業績」 [^yamauti-ziro-sensei-hito-to-gyouseki] 第 I 部の第 6 章「情報処理」から「6.2 プログラミング・シンポジウム」を引用して、プログラミング・シンポジウムのはじまりについて紹介します。
@@ -12,29 +13,31 @@ license: "prosym"
 [^yamauti-ziro-sensei-hito-to-gyouseki]: 山内二郎先生追悼集刊行委員会編: 「山内二郎先生 人と業績」 (1985年 11月) \[[CiNii](https://cir.nii.ac.jp/crid/1130282270367408768)\] \[[国立国会図書館サーチ](https://iss.ndl.go.jp/books/R100000002-I000001819063-00)\]
 
 <style>
-ul.image-list {
+div.image-list {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
     margin: 1rem auto 1rem auto;
-    text-align: center;
-    list-style-type: none;
 }
 
-ul.image-list li {
-    display: inline-block;
+div.image-list img {
     padding: 0.5rem 0.5rem 0.5rem 0.5rem;
 }
 
-img.quotation-yamauti-ziro-sensei-hito-to-gyouseki-spine {
-    width: auto;
-    height: 284px;
+div.image-list img.quotation-yamauti-ziro-sensei-hito-to-gyouseki-spine {
+    width: 20%;
+    max-width: 100%;
+    height: auto;
 }
 
-img.quotation-yamauti-ziro-sensei-hito-to-gyouseki-inside-cover {
-    width: 504px;
-    height: 284px;
+div.image-list img.quotation-yamauti-ziro-sensei-hito-to-gyouseki-inside-cover {
+    width: 63%;
+    max-width: 100%;
+    height: auto;
 }
 </style>
 
-<ul class="image-list"><li><img class="quotation-yamauti-ziro-sensei-hito-to-gyouseki-spine" src="{{ "/assets/images/yamauti_ziro_sensei_hito_to_gyouseki_spine.jpg" | relative_url }}" alt="山内二郎先生 人と業績 背表紙"/></li><li><img class="quotation-yamauti-ziro-sensei-hito-to-gyouseki-inside-cover" src="{{ "/assets/images/yamauti_ziro_sensei_hito_to_gyouseki_inside_cover.jpg" | relative_url }}" alt="山内二郎先生 人と業績 中表紙"/></li></ul>
+<div class="image-list"><img class="quotation-yamauti-ziro-sensei-hito-to-gyouseki-spine" src="{{ "/assets/images/yamauti_ziro_sensei_hito_to_gyouseki_spine.jpg" | relative_url }}" alt="山内二郎先生 人と業績 背表紙"/><img class="quotation-yamauti-ziro-sensei-hito-to-gyouseki-inside-cover" src="{{ "/assets/images/yamauti_ziro_sensei_hito_to_gyouseki_inside_cover.jpg" | relative_url }}" alt="山内二郎先生 人と業績 中表紙"/></div>
 
 これは長いあいだ「プログラミング・シンポジウム こと始め」として [<code class="url">http://www.ipsj.or.jp/prosym/prosynstartup0.html</code>](http://www.ipsj.or.jp/prosym/prosynstartup0.html) に置かれていた内容ですが、それを「[記事](/articles/)」コーナーの一部として移動し、体裁を原著に近づけて再掲するものです。
 
