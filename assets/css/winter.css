@@ -30,6 +30,53 @@ body#winter main section#event dl ul {
     margin: 0;
 }
 
+body#winter main section#program-dates-and-venue ul {
+    list-style: none;
+}
+
+body#winter main section.program-day {
+    margin-left: 2em;
+}
+
+body#winter main section.program-day dl.single-events dt {
+    margin: 0.8rem 0 0.8rem 0;
+    padding: 0 0 0 6px;
+    border-left: solid 4px #99cc99;
+    color: #333333;
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+body#winter main section.program-day dl.session {
+    margin-left: 2rem;
+}
+
+body#winter main section.program-day dl.session dt {
+    margin-top: 1rem;
+}
+
+body#winter main section.program-day dl.session dd.abstract details summary {
+    color: #225588;
+}
+
+body#winter main section.program-day dl.session dd.abstract details summary:hover {
+    cursor: pointer;
+    color: #003366;
+}
+
+body#winter main section.program-day dl.session dd.abstract details[open] summary:after {
+    transform: rotate(90deg);
+}
+
+body#winter main section.program-day dl.session dd.abstract blockquote {
+    border: #888888 1px solid;
+    margin: 0rem;
+    padding: 0.5rem;
+    font-size: 0.9rem;
+    background-color: #bbeebb;
+    white-space: pre-wrap;
+}
+
 div#winter-page-body {
     margin: 0 auto 0 auto;
     padding: 0.5rem 1rem 0.5rem 1rem;
