@@ -47,6 +47,10 @@ body#winter main section.program-day dl.single-events dt {
     font-weight: normal;
 }
 
+body#winter main section.program-day p.session {
+    margin-left: 2rem;
+}
+
 body#winter main section.program-day dl.session {
     margin-left: 2rem;
 }
