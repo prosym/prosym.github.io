@@ -1,42 +1,43 @@
 ---
 layout: default
-title: 夏のプログラミング・シンポジウム 2014
+title: 夏のプログラミング・シンポジウム 2023
 ---
 
 # ![](images/prosym-64x64.png?raw=true) {{ page.title }}
 
 テーマ
-: ビューティフル・インターフェース
+: LLMを使ったプログラミングとAIの未来
 
 ----
 
 トピック
-: **プログラムを公開，参加申し込みを開始しました! 参加申し込み期限を延長しました！**
+: **発表申し込みをはじめました**
+* [発表申し込み]()
 
+<!-- 
 * [プログラム](http://prosym.github.io/sprosym2014/program.html)
 * [シンポジウム本体参加申し込み](http://partake.in/events/b0e3c619-ef25-498e-af0a-f56f36418b09)
 * [懇親会参加申し込み](http://partake.in/events/3081caf3-90dd-4054-b89f-d2ad96c8a7db)
-
+コメントアウトしたい内容 -->
 ----
 
 ## 概要
 <div itemscope itemtype="http://schema.org/Event">
-<meta itemprop="name" content="夏のプログラミング・シンポジウム 2014">
+<meta itemprop="name" content="夏のプログラミング・シンポジウム 2023">
 <ul>
-<li>日程: <span itemprop="startDate" content="2014-08-24">2014年8月24日 (日)</span>
+<li>日程: <span itemprop="startDate" content="2023-09-11">2023年9月11日 (月)〜13日（水）</span>
 <ul>
-<li>終了後に討論の場を兼ねて懇親会を行います．懇親会は別途申し込みが必要で，参加費2000円をいただきます．<br>
-飛び入りでの発表(ライトニングトーク)を受け付けます．
+<li>会場のお茶代として、現地で1000円をいただきます．
 </li>
 </ul>
 </li>
 <div itemprop="location" itemscope itemtype="http://schema.org/Place">
-<meta itemprop="map" content="http://www.drecom.co.jp/company/accessmap/">
+<meta itemprop="map" content="http://nishijinplaza.kyushu-u.ac.jp/access.html">
 <span itemprop="geo" itemscope itemtype="http://data-vocabulary.org/Geo"><meta itemprop="latitude" content="35.631662"><meta itemprop="longitude" content="139.713409"></span>
-<li>場所: <a href="http://www.drecom.co.jp/company/accessmap/"><span itemprop="name">株式会社ドリコム</span></a> <a href="http://www.drecom.co.jp/recruit/room/">プレゼンテーションルーム</a>
+<li>場所: <a href="http://nishijinplaza.kyushu-u.ac.jp/access.html"><span itemprop="name">九州大学西新プラザ</span></a> <a href="http://nishijinplaza.kyushu-u.ac.jp/about.html">大会議室A</a>
 <ul>
 <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-<li><meta itemprop="postalCode" content="1530064"><meta itemprop="addressCountry" content="日本"><span itemprop="addressRegion">東京都</span><span itemprop="addressLocality">目黒区</span><span itemprop="streetAddress">下目黒1丁目8-1 アルコタワー17F</span> (<a href="http://www.openstreetmap.org/#map=17/35.63166/139.71341">OpenStreetMap</a> / <a href="https://www.google.com/maps/place/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%89%E3%83%AA%E3%82%B3%E3%83%A0/@35.631662,139.713409,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x11ac6fae016a8a19">Google Maps</a>)</li>
+<li><meta itemprop="postalCode" content="8140002"><meta itemprop="addressCountry" content="日本"><span itemprop="addressRegion">福岡県</span><span itemprop="addressLocality">福岡市</span><span itemprop="streetAddress">早良区西新2-16-23</span> (<a href="https://www.google.co.jp/maps/place/%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6+%E8%A5%BF%E6%96%B0%E3%83%97%E3%83%A9%E3%82%B6/@33.5879971,130.3580017,17z/data=!3m1!4b1!4m6!3m5!1s0x354193b1c2e5c873:0xfafd600ae3240e03!8m2!3d33.5879927!4d130.3605766!16s%2Fg%2F1xtd_bp0?hl=ja&entry=ttu">Google Maps</a>)</li>
 <!-- PostalAddress --></div>
 </ul>
 </li>
