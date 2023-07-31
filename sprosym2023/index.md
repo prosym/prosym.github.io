@@ -12,12 +12,12 @@ title: 夏のプログラミング・シンポジウム 2023
 
 トピック
 : **2023年8月1日（火）発表申し込みをはじめました**
-* [発表申し込み]()
+* [発表申し込み](https://docs.google.com/forms/d/e/1FAIpQLSfbIxNjID7etT38L3edX5w4QdzvAzOW-cLjHpnJlt7Tuw8fDg/viewform?usp=sf_link)
 
 <!-- 
-* [プログラム](http://prosym.github.io/sprosym2014/program.html)
-* [シンポジウム本体参加申し込み](http://partake.in/events/b0e3c619-ef25-498e-af0a-f56f36418b09)
-* [懇親会参加申し込み](http://partake.in/events/3081caf3-90dd-4054-b89f-d2ad96c8a7db)
+* [プログラム]()
+* [シンポジウム本体参加申し込み](https://docs.google.com/forms/d/e/1FAIpQLSe0wZyMKMspEonXaqHuH0ZOAwK9pAHucZmIA_P-y5vptjVsjw/viewform?usp=sf_link)
+* [懇親会参加申し込み]()
 コメントアウトしたい内容 -->
 ----
 
@@ -44,6 +44,8 @@ title: 夏のプログラミング・シンポジウム 2023
 <!-- Place --></div>
 <li>定員: 80名</li>
 </ul>
+
+* 今回の夏のプログラミングシンポジウムは会場と懇親会（別途申し込み）のみアレンジします。宿泊は博多、天神などで各自ご予約ください。
 <!-- Event --></div>
 
 ## シンポジウムのテーマと開催趣旨
@@ -118,6 +120,7 @@ LLM（大規模言語モデル）はソフトウェア研究者が見据える�
 
 ## 幹事・問い合わせ先
 
+* 大島 聡史（九州大学）
 * 倉光 君郎 (日本女子大学)
 * 小出 洋 (九州大学)
 * 谷 聖一（日本大学）
