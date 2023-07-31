@@ -25,7 +25,7 @@ title: 夏のプログラミング・シンポジウム 2023
 <div itemscope itemtype="http://schema.org/Event">
 <meta itemprop="name" content="夏のプログラミング・シンポジウム 2023">
 <ul>
-<li>日程: <span itemprop="startDate" content="2023-09-11">2023年9月11日(月)〜13日（水）</span>
+<li>日程: <span itemprop="startDate" content="2023-09-11">2023年9月11日(月)〜13日（水）(11日13:00~17:00、12日10:00~17:00、13日10:00~14:00を予定)</span>
 <ul>
 <li>会場のお茶代として、現地で1000円をいただきます．
 </li>
