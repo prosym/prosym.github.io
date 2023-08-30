@@ -163,4 +163,4 @@ LLM（大規模言語モデル）はソフトウェア研究者が見据える�
 * 渡辺 勇士（日本大学）
 
 幹事問い合わせ先メールアドレス
-: s-prosym2023 at ipsj.or.jp
+: sprosym2023 at ipsj.or.jp
