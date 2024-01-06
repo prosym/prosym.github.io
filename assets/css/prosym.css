@@ -171,6 +171,21 @@ main h3 {
     font-weight: bold;
 }
 
+main dl.awards {
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+}
+
+main dl.awards dt {
+    margin: 1.5rem 0 0 0;
+}
+
+main dl.awards dd {
+    margin: 5px 0 0 2rem;
+    display: list-item;
+    list-style-type: circle;
+}
+
 main ul.articles li.article-year {
     margin: 1.5rem 0 0 0;
     padding: 0;
